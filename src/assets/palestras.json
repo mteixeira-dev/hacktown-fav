@@ -1,0 +1,3026 @@
+{
+ "dia05": [
+  {
+   "name": "Credenciamento",
+   "descricao": "O ingresso dá direito a curtir toda a programação oficial do HackTown. O credenciamento é feito apenas uma vez no evento todo.",
+   "horario": "14h às 21h",
+   "local": "Teatro Inatel"
+  },
+  {
+   "name": "O por do Som",
+   "descricao": "Dj's Trinity",
+   "horario": "16h às 18h30",
+   "local": "Casarão femto"
+  },
+  {
+   "name": "Casa TIM 5G",
+   "descricao": "Atrações musicais na varanda da casa",
+   "horario": "18h às 22h",
+   "local": "Cas@ Viva (INATEL)"
+  },
+  {
+   "name": "Showcase",
+   "descricao": "Suspechos",
+   "horario": "18:30 a 19:15",
+   "local": "King in the Belly Backyard (Libertas Brew Pub)"
+  },
+  {
+   "name": "Abertura oficial",
+   "descricao": "Aguardando Informação",
+   "horario": "19h às 19h45",
+   "local": "Teatro Inatel"
+  },
+  {
+   "name": "Showcase",
+   "descricao": "Alexandre Zamat",
+   "horario": "19h às 20h",
+   "local": "Casarão femto"
+  },
+  {
+   "name": "O Futuro é Fe+Male",
+   "descricao": "Hui Jin Park - Estrategista natural da Coréia do Sul e inspirada pela cultura e suas expressões, investiga práticas curatoriais na arte, design estéticas comportamentais em busca de insights estratégicos, comportamentos emergentes e design de cenários futuros.\nLigia Zotini - Pesquisadora e Pensadora de Futuros / Fundadora do Voicers\nMargareth Capurro - Cientista / Criadora do mosquito transgênico para combater a dengue",
+   "horario": "19h30 às 22h",
+   "local": "Teatro Inatel"
+  },
+  {
+   "name": "Pílula vermelha ou azul: realidade e fantasia sobre mundos separados e conectados, um painel sobre as verdades e mentiras do futuro tecnológico.",
+   "descricao": "Jeni Shih - COO de Cloud & Cognitive da IBM América Latina\nCatarina Cicarelli - Head de Comunicação da TransferWise no Brasil\nVinicius Soares - Vinicius Soares - Fundador da Mais a.i. e do AiNews Network / Professor nos MBAs da FIAP e do Inatel",
+   "horario": "19h30 às 22h",
+   "local": "Auditório Aureliano Chaves (Inatel)"
+  },
+  {
+   "name": "Women in Music: Como ser uma líder mulher",
+   "descricao": "Ana Cristina Falcão - Lider do Women in Music Brasil e CEO da Cada Instante.\nIasmine Amazonas - Diretora de Marketing da ONErpm\nElisa Eisenlohr - Gerente de Comunicação na União Brasileira de Compositores (UBC)\nRenata Gomes - Head de marketing da importadora Habro Music / Integra o board da ONG Women in Music Brasil / Pesquisadora assistente e gerente de projetos no DATASIM (SIM São Paulo).",
+   "horario": "19:30h às 22h",
+   "local": "King in the Belly Backyard (Libertas Brew Pub)"
+  },
+  {
+   "name": "Sofar Sounds",
+   "descricao": "3 dias de shows secretos em um projeto musical presente em centenas de cidades do mundo todo. Ingressos vendidos antecipadamente.",
+   "horario": "20h às 00h",
+   "local": "Local secreto"
+  },
+  {
+   "name": "Showcase",
+   "descricao": "Matheus Macedo",
+   "horario": "20h30 às 21h30",
+   "local": "Casarão femto"
+  },
+  {
+   "name": "Festa de abertura do Espaço Marã Musica",
+   "descricao": "DJ Rasul",
+   "horario": "21h às 00h",
+   "local": "Espaço Marã Música (Johnny's bar)"
+  },
+  {
+   "name": "Open Meetup",
+   "descricao": "Espaço aberto para troca de ideias entre pessoas interessadas por inovação e criatividade, com petiscos mineiros e cerveja gelada em um bar tradicionalíssimo da cidade.",
+   "horario": "21h30 às 00h30",
+   "local": "Bar do Dimas"
+  },
+  {
+   "name": "Showcase",
+   "descricao": "Merisma Band",
+   "horario": "22h às 23h",
+   "local": "Casarão femto"
+  },
+  {
+   "name": "Ozu",
+   "descricao": "Aguardando Informação",
+   "horario": "2215 às 23h",
+   "local": "King in the Belly Backyard (Libertas Brew Pub)"
+  },
+  {
+   "name": "Aya",
+   "descricao": "Aguardando Informação",
+   "horario": "23h15 às 00h",
+   "local": "King in the Belly Backyard (Libertas Brew Pub)"
+  },
+  {
+   "name": "Showcase",
+   "descricao": "Pedro Bala e os Holofotes",
+   "horario": "23h30 às 00:30",
+   "local": "Casarão femto"
+  }
+ ],
+ "dia06": [
+  {
+   "name": "Credenciamento",
+   "descricao": "O ingresso dá direito a curtir toda a programação oficial do HackTown. O credenciamento é feito apenas uma vez no evento todo.",
+   "local": "Teatro Inatel",
+   "horario": "07h às 17h"
+  },
+  {
+   "name": "Festa Wake",
+   "descricao": "A Wake é um experimento social que desafia as pessoas a reinventarem sua rotina, em uma festa matinal que reúne yoga, dança, meditação e gastronomia saudável. Mais que acordar cedo, ela convida cada um a protagonizar o início de uma mudança na relação consigo mesmo, os outros e a cidade onde vive.\nIngresso: 1kg de alimento não-perecível",
+   "local": "Espaço Re-mind - (Cultive)",
+   "horario": "07h às 09h30"
+  },
+  {
+   "name": "Casa TIM 5G",
+   "descricao": "Visitação",
+   "local": "Cas@ Viva (INATEL)",
+   "horario": "08h30 às 18h30"
+  },
+  {
+   "name": "Small Actions: o ser humano exponencial",
+   "descricao": "Eduardo Paraske - Head de Marketing Latam do Waze Ads",
+   "local": "Teatro Inatel",
+   "horario": "08h30 às 09h30"
+  },
+  {
+   "name": "Como o 5G vai transformar a sociedade e a economia do Brasil",
+   "descricao": "Eduardo Ricotta - Presidente da Ericsson para o Cone Sul da América Latina",
+   "local": "Auditório Aureliano Chaves (Inatel)",
+   "horario": "08h30 às 09h30"
+  },
+  {
+   "name": "Upside Down Thinking: o poder dos opostos",
+   "descricao": "Patricia Cotton - Fundadora do Upside Down Thinking",
+   "local": "Salas 15 & 17 (INATEL)",
+   "horario": "08h30 às 09h30"
+  },
+  {
+   "name": "Gestão colaborativa centrada em pessoas",
+   "descricao": "Felipe Guedes da Luz - Sócio e Business Design da Clash DI / Co-fundador do E2-Ecossistema Empreendedor",
+   "local": "Sala 12 (INATEL)",
+   "horario": "Aguardando Informação"
+  },
+  {
+   "name": "Como levar leveza para ambientes complexos?",
+   "descricao": "Izabella Neves - Especialista em Inovação na B3 (Bolsa de Valores do Brasil) / Parte do Programa 'Change as Mindset' de empoderamento feminino.",
+   "local": "Espaço M4U (Sala 22 INATEL)",
+   "horario": "08h30 às 09h30"
+  },
+  {
+   "name": "Eu e você (juntos) somos mais inteligentes na cidade do Futuro",
+   "descricao": "Felipe Guedes da Luz - Sócio e Business Design da Clash DI / Co-fundador do E2-Ecossistema Empreendedor",
+   "local": "Espaço Equinix (Sala 20 INATEL)",
+   "horario": "08h30 às 09h30"
+  },
+  {
+   "name": "Aprendizado ágil, adaptabilidade, criatividade e empreendedorismo. O que isso tem a ver com liderança?",
+   "descricao": "Guilherme Marcondes - Vice-Diretor do Inatel\nMarcos Rangel - Apaixonado por liderança e pessoas. Transforma e acelera empresas utilizando o potencial humano e criatividade",
+   "local": "Sala de Física (INATEL)",
+   "horario": "08h30 às 09h30"
+  },
+  {
+   "name": "Negócios de Impacto: um panorama do ecossistema brasileiro",
+   "descricao": "Lucas Bernar - Engenheiro e empreendedor social, parte do Global Shapers, iniciativa do Fórum Econômico Mundial",
+   "local": "Sala de Ideação (INATEL)",
+   "horario": "08h30 às 09h30"
+  },
+  {
+   "name": "O Brasil e a conquista da Lua",
+   "descricao": "Sergio Cabral - Co inventor do WIFI / Fundador do IdeaValley e da SpaceMETA...",
+   "local": "Associação José do Patrocínio",
+   "horario": "08h30 às 09h30"
+  },
+  {
+   "name": "Como construir um produto excelente pra resolver o problema errado",
+   "descricao": "André Nery - Group Product Manager no iFood / Co-fundador da Creative Pack\nGerente de Produto no iFood / Consultor de Data Analytic",
+   "local": "Espaço Leucotron (Salão Dom João Bergese)",
+   "horario": "08h30 às 09h30"
+  },
+  {
+   "name": "Somando, multiplicamos. Construindo comunidades locais de empreendedores.",
+   "descricao": "Raul Mariano Cardoso - Um dos líderes da Campinas Tech, a comunidade de empreendedores de impacto e de startups de Campinas",
+   "local": "Auditório Sebrae (Ginásio Alcidão)",
+   "horario": "08h30 às 09h30"
+  },
+  {
+   "name": "Como Transformar Cidades pela Criatividade.",
+   "descricao": "Janilton Prado - Secretário de Esporte, Cultura, Lazer e Turismo de Santa Rita do Sapucaí\nMarcelo Educa - Pesquisador do contexto de Cidade, com foco em festivais de Tecnologia e Cultura como aspectos comunicacionais de cidades",
+   "local": "Espaço Sebrae (Café Caruso)",
+   "horario": "08h30 às 09h30"
+  },
+  {
+   "name": "Ancestralidade e futuro, dá match?",
+   "descricao": "Cris Matsuoka - Consteladora sistêmica xamânica e integra através da visão sistêmica ancestralidade e futuro",
+   "local": "Academia de Dança Ândrea Falsarella",
+   "horario": "08h30 às 09h30"
+  },
+  {
+   "name": "Chega de zumbis corporativos: dá pra ser feliz de 8 as 18",
+   "descricao": "Ricardo Castanheira - Co-Founder & Head de Operações na Gestores de Sonhos",
+   "local": "Sala 64 (ETE FMC)",
+   "horario": "08h30 às 09h30"
+  },
+  {
+   "name": "Produto de base tecnológica: da ideia à prateleira",
+   "descricao": "Tadeu Geraldo Ribeiro - Líder Técnico de Software no Instituto Nacional de Telecomunicações (Inatel)",
+   "local": "Sala 65 (ETE FMC)",
+   "horario": "08h30 às 09h30"
+  },
+  {
+   "name": "Como o desenvolvimento da personalidade e desempenho acadêmico se relacionam na adolescência",
+   "descricao": "Carolina Sarmento - Líder de análise de dados na Tuneduc",
+   "local": "Sala 82 (ETE FMC)",
+   "horario": "08h30 às 09h30"
+  },
+  {
+   "name": "Mudança de ideia: A inovação nos relacionamentos.",
+   "descricao": "Patrick Paton Polli - Consultor Existencial e Professor na Coexiste",
+   "local": "Sala 83 (ETE FMC)",
+   "horario": "08h30 às 09h30"
+  },
+  {
+   "name": "Por que somos difíceis de conviver?",
+   "descricao": "Aline Cristina Xavier - Facilitadora de relações interpessoais por meio da comunicação e da educação emocional",
+   "local": "Facebook DevC Space (ETE FMC)",
+   "horario": "08h30 às 09h30"
+  },
+  {
+   "name": "Geração Solar Fotovoltaica: Tendências e Perspectivas.",
+   "descricao": "Bruna Fernandes - Professora e Pesquisadora em Energia Solar Fotovoltaica.",
+   "local": "Espaço Dágora (Pracinha da Câmara)",
+   "horario": "08h30 às 09h30"
+  },
+  {
+   "name": "Espaço Scania reservado para encontros de negócios",
+   "descricao": "Use para fazer negócios :)",
+   "local": "Espaço Scania (Praça da Câmara)",
+   "horario": "9h às 18h"
+  },
+  {
+   "name": "Foto Clube Vale do Sapucaí",
+   "descricao": "Aguardando Informação",
+   "local": "Casa Erva Doce",
+   "horario": "9h às 22h"
+  },
+  {
+   "name": "INATEL STARTUPS Experience: Tour com demonstração dos ambientes de trabalho, estratégias utilizadas para desenvolvimento de negócios inovadores e visitas às startups.",
+   "descricao": "Duração: 30 min\nNúmero de participantes por grupo: 20",
+   "local": "NEMP (INATEL)",
+   "horario": "10h às 10h30"
+  },
+  {
+   "name": "Habro Music Lab",
+   "descricao": "Aguardando Informação",
+   "local": "King in the Belly Backyard (Libertas Brew Pub)",
+   "horario": "10h às 11h"
+  },
+  {
+   "name": "Do previsível ao preditivo. Como dados e a criatividade podem, juntos, revolucionar grandes indústrias.",
+   "descricao": "Tatiana Tsukamoto - Diretora Criativa do The Zoo, time do Google que dá suporte e consultoria a área de criação das agências",
+   "local": "Teatro Inatel",
+   "horario": "10h às 11h"
+  },
+  {
+   "name": "O profissional 5G: Você está pronto para protagonizar esta nova revolução tecnológica?",
+   "descricao": "Silvio Paciello - Vice-Presidente de People na Ericsson Cone Sul",
+   "local": "Auditório Aureliano Chaves (Inatel)",
+   "horario": "10h às 11h"
+  },
+  {
+   "name": "ARCA: O desafio de transformar a cidade, um evento de cada vez",
+   "descricao": "Mauricio Soares - Sócio-fundador da ARCA, novo espaço de eventos que vem atraindo alguns dos projetos mais interessantes de São Paulo / Sócio da M-S Live, empresa dedicada à realização de eventos internacionais de música eletrônica",
+   "local": "Salas 15 & 17 (INATEL)",
+   "horario": "10h às 11h"
+  },
+  {
+   "name": "Movimento do Corporate Hackers",
+   "descricao": "Carlos Alberto de Sousa - Aprendiz em tecimento de redes, construção de pontes, ligação de silos, conexão de elétrons livres, ontologia e serviçal no centro de estudos orientais Shuang Tzu",
+   "local": "Sala 12 (INATEL)",
+   "horario": "10h às 11h"
+  },
+  {
+   "name": "Da Empatia ao Big Data: existe vida além dos dados",
+   "descricao": "Thalita Barbalho - Service Designer e Consultora na DesignThinkers Group\nIara Vianna - Consultora e Cientista Social na DesignThinkers Group",
+   "local": "Espaço M4U (Sala 22 INATEL)",
+   "horario": "10h às 11h"
+  },
+  {
+   "name": "Indústria 5.0: reinventando os negócios e o trabalho",
+   "descricao": "José Domingos Adriano - Fundador e CTO da Exsto Tecnologia e investidor-anjo",
+   "local": "Espaço Equinix (Sala 20 INATEL)",
+   "horario": "10h às 11h"
+  },
+  {
+   "name": "Você pratica o que compartilha?",
+   "descricao": "Allan Szacher - Idealizador da Pixel Show | Zupi\nSímon Szacher - Sócio Diretor da Zupi",
+   "local": "Sala 16 (INATEL)",
+   "horario": "10h às 11h"
+  },
+  {
+   "name": "O Guia do Minerador das Galáxias",
+   "descricao": "Alan Bendasoli Pavan - Pesquisador na área de Relatividade e Gravitação / Professor da Universidade Federal de Itajubá",
+   "local": "Sala de Física (INATEL)",
+   "horario": "10h às 11h"
+  },
+  {
+   "name": "Transformação digital na Mineração: criando pessoas 4.0 para indústria 4.0",
+   "descricao": "Alex Tadeu - Gerente Nacional de Serviços para Mineração da Metso",
+   "local": "Sala de Ideação (INATEL)",
+   "horario": "10h às 11h"
+  },
+  {
+   "name": "Autocriação: Quem você é vai se apresentar sem razão",
+   "descricao": "Tati Rossi - Artista da Identidade Humana",
+   "local": "Espaço Re-mind - Solarium (Cultive)",
+   "horario": "10h às 11h"
+  },
+  {
+   "name": "Despoluição com jardins filtrantes",
+   "descricao": "Luis Fernando Alberti - Doutor e Pós-Doutor em Biologia Vegetal, colocando no Mapa a Biodiversidade da Serra da Mantiqueira",
+   "local": "Associação José do Patrocínio",
+   "horario": "10h às 11h"
+  },
+  {
+   "name": "Palestra – Governança que transforma",
+   "descricao": "Sidney Severini - Especialista em Governança Corporativa / Conselheiro de administração em empresas líderes de seus segmentos",
+   "local": "Espaço Leucotron (Salão Dom João Bergese)",
+   "horario": "10h às 11h"
+  },
+  {
+   "name": "7 estratégias de growth hacking para dar sold-out no seu evento",
+   "descricao": "Haroldo Almeida - Idealizador do The12Beers, evento onde você toma 12 cervejas em 12 bares em 12 horas",
+   "local": "Bar do Dimas",
+   "horario": "10h às 11h"
+  },
+  {
+   "name": "Caos x Foco: Como empreender na Era da Distração",
+   "descricao": "Brunno Paes Leme - Diretor Local do Startup Grind / Empreendedor\nPriscila Gongora - Head de Criação da Heart Healing Brasil\nBruno Vidja - Músico, cantor e compositor\nSaulo Luciani - Fisioterapeuta e Osteopata / Criador da Heart Healing",
+   "local": "Auditório Sebrae (Ginásio Alcidão)",
+   "horario": "10h às 11h"
+  },
+  {
+   "name": "RME: Mulheres conectadas em rede",
+   "descricao": "Ligia Martins - CEO do Centro de Arte Devir / Atua profissionalmente no agronegócio na empresa familiar Café Quetal Comércio e Refenefício",
+   "local": "Espaço Sebrae (Café Caruso)",
+   "horario": "10h às 11h"
+  },
+  {
+   "name": "Como aprimorar a relação de artistas com a mídia",
+   "descricao": "Sergio Martins - Repórter musical da revista VEJA / Apresentador do programa VEJA Música.",
+   "local": "Academia de Dança Ândrea Falsarella",
+   "horario": "10h às 11h"
+  },
+  {
+   "name": "Os Mindsets da Liderança Facilitadora: quais são os drivers de um líder do futuro?",
+   "descricao": "Diego Paim - Sócio fundador da FaciLab???Laboratório de Facilitação",
+   "local": "Sala 64 (ETE FMC)",
+   "horario": "10h às 11h"
+  },
+  {
+   "name": "Artefato e serviço: em que época vivemos?",
+   "descricao": "Clara Bidorini - Head de Corporate Venture da Kyvo / Fundadora do Programa 'Change as Mindset' / Co-fundadora da Namoa",
+   "local": "Sala 65 (ETE FMC)",
+   "horario": "10h às 11h"
+  },
+  {
+   "name": "Era da Humanidade Aumentada: como a tecnologia melhorará o ser humano",
+   "descricao": "Courtnay Guimaraes Jr - Cientista Chefe na BRQ Digital Solutions",
+   "local": "Anfiteatro ETE FMC",
+   "horario": "10h às 11h"
+  },
+  {
+   "name": "Relacionamentos 2.0",
+   "descricao": "Carla Link - Designer de Serviços e Fundadora da Talking City\nYasmine Caxeiro - Cientista de dados da N1N3 Data Science / Uma das idealizadoras do Minha Cidade Segura",
+   "local": "Auditório Sinhá Moreira (ETE FMC)",
+   "horario": "10h às 11h"
+  },
+  {
+   "name": "Consultoria Criativa: criando experiências para os clientes dos seus clientes",
+   "descricao": "Jorge Jabor - Gerente de Novos Negócios e Produtos na VZ.Lab",
+   "local": "Sala 81 (ETE FMC)",
+   "horario": "10h às 11h"
+  },
+  {
+   "name": "InovAção: Do processo ao modelo de negócio",
+   "descricao": "Michelle Beralde - Innovation Strategist e Service Designer na Insitum",
+   "local": "Sala 82 (ETE FMC)",
+   "horario": "10h às 11h"
+  },
+  {
+   "name": "Construindo websites acessíveis",
+   "descricao": "Isabel Mendes - Quality Assurance Engineer na WatchGuard Technologies",
+   "local": "Sala 83 (ETE FMC)",
+   "horario": "10h às 11h"
+  },
+  {
+   "name": "MIDI e Sintetizadores: Fazendo música com Arduino.",
+   "descricao": "Daniel Castilho - Especialista em Sistemas no Inatel",
+   "local": "Sala 84 (ETE FMC)",
+   "horario": "10h às 11h"
+  },
+  {
+   "name": "Autoconsciência CRIA liderança",
+   "descricao": "Roberta Bonamigo - Head de Gestão de Pessoas na Racional Engenharia",
+   "local": "Facebook DevC Space (ETE FMC)",
+   "horario": "10h às 11h"
+  },
+  {
+   "name": "Educação e Formação para a Atualidade",
+   "descricao": "Giovanna Domingues Pires - Professora e Gestora Universitária / Co-fundadora da ALL HD",
+   "local": "Espaço Dágora (Pracinha da Câmara)",
+   "horario": "10h às 11h"
+  },
+  {
+   "name": "Comunidades e Fortalecimento de Ecossistemas Locais com Campinas Tech e InovAtiva Brasil",
+   "descricao": "Raul Cardoso, Omar Branquinho, Vinicius Aguiar de Brito, Karla Cristina da Silva, Thais Falabella e Priscila Tie",
+   "local": "Espaço Comunidades (ETE FMC)",
+   "horario": "10h ás 12h"
+  },
+  {
+   "name": "INATEL STARTUPS Experience: Tour com demonstração dos ambientes de trabalho, estratégias utilizadas para desenvolvimento de negócios inovadores e visitas às startups.",
+   "descricao": "Duração: 30 min\nNúmero de participantes por grupo: 20",
+   "local": "NEMP (INATEL)",
+   "horario": "10h40 às 11h10"
+  },
+  {
+   "name": "INATEL STARTUPS Experience: Tour com demonstração dos ambientes de trabalho, estratégias utilizadas para desenvolvimento de negócios inovadores e visitas às startups.",
+   "descricao": "Duração: 30 min\nNúmero de participantes por grupo: 20",
+   "local": "NEMP (INATEL)",
+   "horario": "11h20 às 11h50"
+  },
+  {
+   "name": "Como foi criar a CCXP, a maior comic con do mundo, e a GameXP",
+   "descricao": "Pierre Mantovani - Co-fundador e CEO do Omelete Company / Criador da CCXP, a maior comic con do mundo, e da GameXP",
+   "local": "Teatro Inatel",
+   "horario": "11h30 às 12h30"
+  },
+  {
+   "name": "FoodHack: O Delivery e o Futuro da Alimentação",
+   "descricao": "Thais Azevedo - Diretora de marketing do Uber Eats Brasil",
+   "local": "Auditório Aureliano Chaves (Inatel)",
+   "horario": "11h30 às 12h30"
+  },
+  {
+   "name": "Como construir e acelerar a máquina de vendas B2B",
+   "descricao": "Ricardo Corêa - Co-fundador e CEO na Ramper",
+   "local": "Salas 15 & 17 (INATEL)",
+   "horario": "11h30 às 12h30"
+  },
+  {
+   "name": "Transformando os meios de pagamento com tecnologia e criatividade",
+   "descricao": "José Dantas - Product Manager na M4U",
+   "local": "Espaço M4U (Sala 22 INATEL)",
+   "horario": "11h30 às 12h30"
+  },
+  {
+   "name": "Big Data > Right Data: Princípios para definir os dados que importam",
+   "descricao": "Natalia Kaupa - Fundadora da Folks Like Us / co-fundadora da WAKE Insights",
+   "local": "Espaço Equinix (Sala 20 INATEL)",
+   "horario": "11h30 às 12h30"
+  },
+  {
+   "name": "Marca para além do que se vê: Imagem, Estratégia e Cultura",
+   "descricao": "Tarcísio Lima - Designer Partner e Consultor na DesignThinkers Group",
+   "local": "Sala 16 (INATEL)",
+   "horario": "11h30 às 12h30"
+  },
+  {
+   "name": "Como empreender com cannabis no Brasil?",
+   "descricao": "Camila Teixeira - Fundadora e CEO da Indeov, empresa brasileira especializada no acesso à cannabis medicinal",
+   "local": "Sala de Física (INATEL)",
+   "horario": "11h30 às 12h30"
+  },
+  {
+   "name": "Arte da facilitação em processos humanos",
+   "descricao": "Timóteo Farias - Conector, facilitador, curador de conteúdo e consultor",
+   "local": "Sala de Ideação (INATEL)",
+   "horario": "11h30 às 12h30"
+  },
+  {
+   "name": "Soft Medicine & A Medicina do Futuro",
+   "descricao": "Katryn Ribeiro - Formada em Medicina desde 2006, atua como clinica com olhar integrativo, unindo os saberes ancestrais com o moderno, olhando para o indivíduo em toda sua complexidade.",
+   "local": "Espaço Re-mind - Botanike (Cultive)",
+   "horario": "11h30 às 12h30"
+  },
+  {
+   "name": "Eu 3.0 – Pensar, Sentir e Agir unificados",
+   "descricao": "Vannia Parma - Pesquisadora, Terapeuta e Professora / Membro da Sociedade Antroposófica do Brasil e da Escola de Yoga Arhatica",
+   "local": "Espaço Re-mind - Solarium (Cultive)",
+   "horario": "11h30 às 12h30"
+  },
+  {
+   "name": "Um ‘trem’ chamado Elvira Brandão: A jornada inovadora de uma escola em movimento.",
+   "descricao": "Andrezza Amorelli - Diretora Geral do premiado Colégio Elvira Brandão",
+   "local": "Associação José do Patrocínio",
+   "horario": "11h30 às 12h30"
+  },
+  {
+   "name": "O que o mercado da música não te conta?",
+   "descricao": "Leonardo Morel - Diretor de Inteligência de Mercado na iMusics",
+   "local": "Hotel Real Palace",
+   "horario": "11h30 às 12h30"
+  },
+  {
+   "name": "Hackeando a cultura corporativa: como transformar barreiras em alavancas.",
+   "descricao": "Veruska Galvão - Head e Heart de Desenvolvimento Humano",
+   "local": "Espaço Leucotron (Salão Dom João Bergese)",
+   "horario": "11h30 às 12h30"
+  },
+  {
+   "name": "Seja um Atleta de Alta Performance no Seu Negócio!",
+   "descricao": "Renato Endo - Mental Coach de Atletas e Fundador da Deeper Co\nIracema Bonomini - Agrofloresteira, cozinheira, maratonista, bacharel em física, engenheira de telecomunicações, estudante (de piano, de fotografia, de plantas medicinais, da vida), meditadora por opção, caminhante do mundo.\nLaurindo Nunes - Maratonista profissional entre os 10 melhores do Brasil\nEduardo Calixto - Ultramaratonista profissional e tetracampeão da Brazil 135+ Ultramarathon",
+   "local": "Auditório Sebrae (Ginásio Alcidão)",
+   "horario": "11h30 às 12h30"
+  },
+  {
+   "name": "Construindo suas projeções financeiras: estudo sobre o crescimento das 100 empresas que mais crescem no Brasil",
+   "descricao": "Matheus Azzi - Analista de investimentos da Fundepar\nEuler Santos - Diretor da Fundepar",
+   "local": "Espaço Sebrae (Café Caruso)",
+   "horario": "11h30 às 12h30"
+  },
+  {
+   "name": "O que você pensa fica expresso nos seus movimentos",
+   "descricao": "Chel Anderaus - Consultora Existencial formada pela Coexiste e Professora do Centro de Treinamento Físico da Escola há 7 anos",
+   "local": "Academia de Dança Ândrea Falsarella",
+   "horario": "11h30 às 12h30"
+  },
+  {
+   "name": "O uso do Blockchain para a Transformação Digital de empresas e governos",
+   "descricao": "Flavia de Araujo Brêtas - Head de Produto da OriginalMy Blockchain",
+   "local": "Sala 64 (ETE FMC)",
+   "horario": "11h30 às 12h30"
+  },
+  {
+   "name": "Co-desenvolvimento para a inovação: a conexão entre universidades e empresas",
+   "descricao": "Bernardo Annoni - Líder de inovação da Fundep",
+   "local": "Sala 65 (ETE FMC)",
+   "horario": "11h30 às 12h30"
+  },
+  {
+   "name": "Vamos resgatar a arte da conversa?",
+   "descricao": "Tipiti Simonsen Barros - Idealizadora do FikaConversas",
+   "local": "Anfiteatro ETE FMC",
+   "horario": "11h30 às 12h30"
+  },
+  {
+   "name": "Alcançando milhões sem gastar milhões",
+   "descricao": "Catarina Cicarelli - Head de Comunicação da TransferWise no Brasil",
+   "local": "Auditório Sinhá Moreira (ETE FMC)",
+   "horario": "11h30 às 12h30"
+  },
+  {
+   "name": "Palestra – Os chefes que me tornaram líder",
+   "descricao": "Leticia Gimenez - Gestora de produtos digitais na Creditas",
+   "local": "Sala 81 (ETE FMC)",
+   "horario": "11h30 às 12h30"
+  },
+  {
+   "name": "Como identificar emoções através de micro expressões faciais",
+   "descricao": "Adrielle Vieira - UX Designer na HandMade UX",
+   "local": "Sala 82 (ETE FMC)",
+   "horario": "11h30 às 12h30"
+  },
+  {
+   "name": "Plataforma Digitais e o Mercado da Música: Disrupção e Reconstrução",
+   "descricao": "Carlos Mills - Presidente na Associação Brasileira da Música Independente (ABMI)",
+   "local": "Sala 83 (ETE FMC)",
+   "horario": "11h30 às 12h30"
+  },
+  {
+   "name": "A criatividade como estado de espírito",
+   "descricao": "Bernardo Leso - Criador e facilitador do curso de criatividade Devir",
+   "local": "Sala 84 (ETE FMC)",
+   "horario": "11h30 às 12h30"
+  },
+  {
+   "name": "A verdade é sexy: como lucrar com trabalho em rede, engajamento e verdade na comunicação para as novas gerações",
+   "descricao": "Janara Lopes - Diretora Criativa e fundadora da IdeaFixa",
+   "local": "Facebook DevC Space (ETE FMC)",
+   "horario": "11h30 às 12h30"
+  },
+  {
+   "name": "Os pilares do yoga",
+   "descricao": "Dafnis Cakau de Proença - Iniciou sua jornada no yoga há 20 anos/ Voluntária com yoga no projeto sociocultural do Instituto Entrando em Cena / Dirige e orienta práticas de yoga no estúdio Turiya Yoga e oferece retiros de yoga e culinária plant-based pelo Brasil.",
+   "local": "Espaço Dágora (Pracinha da Câmara)",
+   "horario": "11h30 às 12h30"
+  },
+  {
+   "name": "Showcase",
+   "descricao": "Lucas Julidori",
+   "local": "Palco Rockambole",
+   "horario": "11h45 às 12h15"
+  },
+  {
+   "name": "Showcase",
+   "descricao": "Auri",
+   "local": "Palco Rockambole",
+   "horario": "12h45 às 13h15"
+  },
+  {
+   "name": "AKQA Casa e o método Radiohead de inovação",
+   "descricao": "Diego Machado - Co-Fundador da AKQA São Paulo",
+   "local": "Teatro Inatel",
+   "horario": "13h às 14h"
+  },
+  {
+   "name": "A tecnologia já é uma extensão do ser humano. Como ser relevante neste contexto?",
+   "descricao": "Bianca Waclawek - Gerente de Desenvolvimento de Vendas do Waze no Brasil",
+   "local": "Auditório Aureliano Chaves (Inatel)",
+   "horario": "13h às 14h"
+  },
+  {
+   "name": "A nova era do entretenimento: Festivais Familiares",
+   "descricao": "Ernesto Abud - Pai de 5 filhos e dentro do Clã de 7 pessoas e sua responsabilidade, segundo ele, é a de provocar o inimaginável, pois gosta de explorar novas temáticas e assumir a bronca em temas inexplorados.",
+   "local": "Salas 15 & 17 (INATEL)",
+   "horario": "13h às 14h"
+  },
+  {
+   "name": "Leitura como ferramenta de sobrevivência na Era da Burrice",
+   "descricao": "Rafael Lavor - Co-Head de Estratégia na CP+B",
+   "local": "Sala 12 (INATEL)",
+   "horario": "13h às 14h"
+  },
+  {
+   "name": "Projetando Confiança e Empatia em Experiências de Machine Learning First",
+   "descricao": "Martin Rabaglia - Co-fundador e diretor de Tecnologia e Experiências da Genosha, uma agência digital argentina que fortalece Marcas, Startups e Histórias",
+   "local": "Espaço M4U (Sala 22 INATEL)",
+   "horario": "13h às 14h"
+  },
+  {
+   "name": "Por que o silêncio não é uma estratégia aceitável e como podemos nos posicionar",
+   "descricao": "Laura Freitas - Produz memes em horário comercial / Atuou em empresas como Nike, Comitê Organizador Rio 2016 e Equinix",
+   "local": "Espaço Equinix (Sala 20 INATEL)",
+   "horario": "13h às 14h"
+  },
+  {
+   "name": "Digital Product Mindset",
+   "descricao": "Franco Pieragnoli - Diretor de Tecnologia da Work & Co",
+   "local": "Sala 16 (INATEL)",
+   "horario": "13h às 14h"
+  },
+  {
+   "name": "Novos horizontes além dos eventos: O significado da imagem de um buraco negro em tempos de crise de credibilidade da informação",
+   "descricao": "Gabriel Hickel - Astrofísico, professor e divulgador científico",
+   "local": "Sala de Física (INATEL)",
+   "horario": "13h às 14h"
+  },
+  {
+   "name": "Cultura de Inovação",
+   "descricao": "Matheus Souza - Head de Inovação no SAP Labs Latin America",
+   "local": "Sala de Ideação (INATEL)",
+   "horario": "13h às 14h"
+  },
+  {
+   "name": "Carreira musical: o que temos aprendido na prática?",
+   "descricao": "Otávio Cardoso - Guitarrista do Lagum e produtor musical no Lightz Studio\nKaren Dió - Vocalista e guitarrista da banda Violet Soda\nFelipe Kautz - Baixista da banda Dingo bells\nYgor Alexis- Criador do Rockambole / Diretor de Marketing no Gritaria / Produtor Executivo na Supercombo",
+   "local": "King in the Belly Backyard (Libertas Brew Pub)",
+   "horario": "13h às 14h"
+  },
+  {
+   "name": "Futuro do Dinheiro & Dinheiro do Futuro",
+   "descricao": "Alexandre Garcia - Legal Architect & Legal Scientist / Fundador da Deep Tech Labs",
+   "local": "Espaço Re-mind - Botanike (Cultive)",
+   "horario": "13h às 14h"
+  },
+  {
+   "name": "Visões para um mundo mais tecnológico e consciente",
+   "descricao": "Vinicius Cicarelli - Educador e consultor",
+   "local": "Espaço Re-mind - Solarium (Cultive)",
+   "horario": "13h às 14h"
+  },
+  {
+   "name": "Hackeando a Amazônia: além da floresta",
+   "descricao": "Macaulay Souza de Abreu - Caboclo amazônida / Empreendedor na Onisafra",
+   "local": "Associação José do Patrocínio",
+   "horario": "13h às 14h"
+  },
+  {
+   "name": "Como construir (ou não destruir) sua carreira musical em 3 meses: Dicas bem humoradas de como adequar o seu trabalho aos espaços / marcas / projetos",
+   "descricao": "Michelly Mury - Coordenadora Artística da Casa Natura Musical",
+   "local": "Hotel Real Palace",
+   "horario": "13h às 14h"
+  },
+  {
+   "name": "Desafios e tendências tecnológicas na conexão de pessoas e empresas",
+   "descricao": "Frederico Moraes - Head de Novos negócios e Inovação na Leucotron",
+   "local": "Espaço Leucotron (Salão Dom João Bergese)",
+   "horario": "13h às 14h"
+  },
+  {
+   "name": "O mundo em que almejamos já existe dentro de nós, basta despertarmos!",
+   "descricao": "Evandro Souza - Diretor Executivo na Tectrum Soluções Eletrônicas / Praticante e estudioso do xamanismo e de outras linhas espiritualistas",
+   "local": "Auditório Sebrae (Ginásio Alcidão)",
+   "horario": "13h às 14h"
+  },
+  {
+   "name": "A jornada do herói e da heroína",
+   "descricao": "Denise Bárbara - Co-fundadora do Cardume / Mãe / Cientista Social",
+   "local": "Academia de Dança Ândrea Falsarella",
+   "horario": "13h às 14h"
+  },
+  {
+   "name": "Os meus 10 aprendizados mágicos e práticos sobre empreender o meu sonho.",
+   "descricao": "Juliana Nascimento - Artista empreendedora da Ju.Na",
+   "local": "Sala 64 (ETE FMC)",
+   "horario": "13h às 14h"
+  },
+  {
+   "name": "Liderando empreendimentos de cannabis medicinal em um contexto de incerteza",
+   "descricao": "Andre Coutinho - Sócio fundador da startups Evolve que oferece tecnologia para a economia circular e da Indeov que oferece acesso a tratamentos com cannabis medicinal / Sócio da Symnetics / Professor de programas executivos da Fia e Ipl",
+   "local": "Sala 65 (ETE FMC)",
+   "horario": "13h às 14h"
+  },
+  {
+   "name": "O Mapa do Futuro do Feminino para o Brasil em 2030",
+   "descricao": "Francisca Limberger - Co-fundadora do projeto IRIS???Liberdade do Feminino\nCarolina Herszenhut - Feminista e ativista cultural / Curadora d?O Cluster\nRaquel Chamis - Embaixadora do Iris / Co-fundadora da Cora",
+   "local": "Anfiteatro ETE FMC",
+   "horario": "13h às 14h"
+  },
+  {
+   "name": "Inteligência artificial e o seu impacto nas empresas: em busca dos unicórnios",
+   "descricao": "Alexandre Montoro - Sócio do Boston Consulting Group (BCG)",
+   "local": "Auditório Sinhá Moreira (ETE FMC)",
+   "horario": "13h às 14h"
+  },
+  {
+   "name": "Lentes do Futuro: diz aí Márcio, o que é que só você viu?",
+   "descricao": "Márcio Carvalho - Sócio-diretor da Agência ONZE",
+   "local": "Sala 81 (ETE FMC)",
+   "horario": "13h às 14h"
+  },
+  {
+   "name": "Um bate-papo sobre a proliferação de Festivais e seu ecossistema",
+   "descricao": "Fabiana Lian - Fundadora da On Stage Lab, primeira escola de negócios de música e showbusiness da América Latina\nPena Schmidt - Produtor Musical e Pesquisador / Curador da #ListaDasListas",
+   "local": "Sala 82 (ETE FMC)",
+   "horario": "13h às 14h"
+  },
+  {
+   "name": "Relações entre música, tecnologia e criatividade no século XXI",
+   "descricao": "Thor Moura - Empreendedor na startup Sling Musical / Músico na banda Bolero Freak",
+   "local": "Sala 83 (ETE FMC)",
+   "horario": "13h às 14h"
+  },
+  {
+   "name": "JUNTOS #SOMOSILIMITADOS",
+   "descricao": "Alcides Geraldes Braga - Cofundador e sócio-diretor da Truckvan",
+   "local": "Sala 84 (ETE FMC)",
+   "horario": "13h às 14h"
+  },
+  {
+   "name": "Inovações no controle de mosquitos transmissores de Dengue, Zika, Chik e Febre Amarela",
+   "descricao": "Margareth Capurro - Cientista / Criadora do mosquito transgênico para combater a dengue",
+   "local": "Facebook DevC Space (ETE FMC)",
+   "horario": "13h às 14h"
+  },
+  {
+   "name": "Transmutação de Governo – Como a mudança no elemento básico – pessoas – está mudando o serviço público na essência",
+   "descricao": "Lorena Mascarenhas - Empreendedora com foco em: Inspirar, conectar e desenvolver pessoas\nCiro Avelino - Secretário Adjunto responsável por conduzir os projetos de Transformação Digital no Governo Federal / Funcionário da Caixa onde já exerceu diversos cargos de gestão nacional e regional nas áreas de negócios e relacionamento com cliente\nEduardo Castro- Trabalha na Secretaria de Ciência, Tecnologia e Inovação do Distrito Federal\nJoelson Vellozo Jr - Gestor público, com o desafio de ajudar na transformação digital do Governo Federal, sem perder de vista o que de fato interessa para o usuário de serviços públicos",
+   "local": "Espaço Dágora (Pracinha da Câmara)",
+   "horario": "13h às 14h"
+  },
+  {
+   "name": "Showcase",
+   "descricao": "Keops e Raony",
+   "local": "Palco Rockambole",
+   "horario": "13h45 às 14h15"
+  },
+  {
+   "name": "O Som de um Clique",
+   "descricao": "Giuliana Bonequini",
+   "local": "Espaço Marã Música (Johnny's bar)",
+   "horario": "14h às 23h"
+  },
+  {
+   "name": "Mentoria",
+   "descricao": "Music Cosmos: Mentoria em Grupo para Profissionais da Música",
+   "local": "Espaço Marã Música (Johnny's bar)",
+   "horario": "14h às 15:30"
+  },
+  {
+   "name": "Uncensored Disruption",
+   "descricao": "Martin Restrepo - MIT Innovator Under 35 / Hyper Island Speaker & Learning Designer",
+   "local": "Teatro Inatel",
+   "horario": "14h30 às 15h30"
+  },
+  {
+   "name": "Founders Talk",
+   "descricao": "Com as ferramentas que a tecnologia democratizou, o mundo hoje é uma grande plataforma para criar projetos que colaborem na construção de um futuro desejável. Venha conhecer as histórias cheias de propósito de criadores de movimentos, startups e projetos impulsionadores de uma nova realidade. A dinâmica é bem parecida com a do TEDx.",
+   "local": "Auditório Aureliano Chaves (Inatel)",
+   "horario": "14h30 às 15h30"
+  },
+  {
+   "name": "Do Pitch ao Sync: um guia essencial para licenciamento e sincronização de música no audiovisual e propaganda",
+   "descricao": "Afonso Marcondes - Music Brainstorming Officer na Sync Originals\nHugo Santos - Diretor de Planejamento na WMcCann\nAna Cristina Falcão - CEO da Cada Instante\nFelipe Llerena - Head da Nikita Music Digital",
+   "local": "Salas 15 & 17 (INATEL)",
+   "horario": "14h30 às 15h30"
+  },
+  {
+   "name": "A lógica para construção dos algoritmos de inteligência artificial baseados na coincidência de fatos improváveis usando máxima entropia",
+   "descricao": "Maria Luiza Reis - CEO da Lab245 Software / Doutora em Engenharia Nuclear",
+   "local": "Sala 12 (INATEL)",
+   "horario": "Aguardando Informação"
+  },
+  {
+   "name": "Computac?a?o Qua?ntica e como deve afetar o futuro",
+   "descricao": "Jair Antunes - Li?der de Computac?a?o Qua?ntica da Accenture para LATAM",
+   "local": "Espaço M4U (Sala 22 INATEL)",
+   "horario": "14h30 às 15h30"
+  },
+  {
+   "name": "Acelerando as Vendas com Marketing Científico, Empatia e Dados",
+   "descricao": "Anderson Palma - Co-Founder no Growth Labs",
+   "local": "Espaço Equinix (Sala 20 INATEL)",
+   "horario": "14h30 às 15h30"
+  },
+  {
+   "name": "Consciência: aplicação prática em situações de decisões.",
+   "descricao": "Hélio Pedro do Nascimento - Estudioso da evolução humana e sua relação com o desenvolvimento e uso da consciência de forma prática",
+   "local": "Sala 16 (INATEL)",
+   "horario": "14h30 às 15h30"
+  },
+  {
+   "name": "Banco de Tempo para Serviços Assistenciais usando Blockchain",
+   "descricao": "Estevan Lopes - Professor, pesquisador e combinador de tecnologias correntes e emergentes",
+   "local": "Sala de Física (INATEL)",
+   "horario": "14h30 às 15h30"
+  },
+  {
+   "name": "Fluxos de pagamentos na indústria da música",
+   "descricao": "Guilherme Sampaio - Fundador da Smart Rights",
+   "local": "Sala de Ideação (INATEL)",
+   "horario": "14h30 às 15h30"
+  },
+  {
+   "name": "Sergio Martins (Veja) entrevista Supercombo",
+   "descricao": "Supercombo - Uma das bandas de Indie Rock de maior sucesso no Brasil\nSérgio Martins - Repórter musical da revista VEJA / Apresentador do programa VEJA Música.",
+   "local": "King in the Belly Backyard (Libertas Brew Pub)",
+   "horario": "14h30 às 15h30"
+  },
+  {
+   "name": "Banho Sensorial: Vivendo outras formas de Realidades Imersivas",
+   "descricao": "Katryn Ribeiro - Formada em Medicina desde 2006, atua como clinica com olhar integrativo, unindo os saberes ancestrais com o moderno, olhando para o indivíduo em toda sua complexidade.\nGabriela Maciel - Healer, Desenvolvedora Humana e Facilitadora Yoga Intuitiva",
+   "local": "Espaço Re-mind - Botanike (Cultive)",
+   "horario": "14h30 às 15h30"
+  },
+  {
+   "name": "Criando nosso Food System",
+   "descricao": "Bia Goll - Cozinheira, trabalha com permacultura, pesquisa, produção de comida local em vários lugares do mundo.",
+   "local": "Espaço Re-mind - Solarium (Cultive)",
+   "horario": "14h30 às 15h30"
+  },
+  {
+   "name": "Contrate mulheres negras: o potencial criativo de um mercado de comunicação mais diverso",
+   "descricao": "Amanda Abreu - Co-fundadora do Indique uma Preta\nVerônica Dudiman - Co-fundadora da consultoria Indique Uma Preta / Planejadora Estratégica na Mutato\nDaniele Mattos - Idealizadora e Co-fundadora do Indique Uma Preta",
+   "local": "Associação José do Patrocínio",
+   "horario": "14h30 às 15h30"
+  },
+  {
+   "name": "30 anos em 2: Vivendo em organizações exponenciais",
+   "descricao": "Tiago Venturieri Barra - Researcher Partner & Data Scientist no Instituto Cappra de Ciência de Dados",
+   "local": "Hotel Real Palace",
+   "horario": "14h30 às 15h30"
+  },
+  {
+   "name": "O desafio do Design Thinking em empresas tradicionais",
+   "descricao": "Antonio Augusto - UX Designer na Leucotron.",
+   "local": "Espaço Leucotron (Salão Dom João Bergese)",
+   "horario": "14h30 às 15h30"
+  },
+  {
+   "name": "Volta ao mundo em 12 meses: como decidi largar tudo e realizar um sonho",
+   "descricao": "Lucas Costa - Empreendedor Social / Após se formar em relações Internacionais na UnB, decidiu iniciar uma volta ao mundo",
+   "local": "Bar do Dimas",
+   "horario": "14h30 às 15h30"
+  },
+  {
+   "name": "Como empreender dentro de uma empresa",
+   "descricao": "Cassio Greco - Engineering Team Lead na TransferWise",
+   "local": "Auditório Sebrae (Ginásio Alcidão)",
+   "horario": "14h30 às 15h30"
+  },
+  {
+   "name": "Produtos que mudam o mundo: Como fazer gás de cozinha com resíduo orgânico na cidade",
+   "descricao": "Paula Baeta - Fundadora da Leal Sustentabilidade",
+   "local": "Espaço Sebrae (Café Caruso)",
+   "horario": "14h30 às 15h30"
+  },
+  {
+   "name": "Vinho, Azeite e Café, as delícias da Mantiqueira, da produção ao produto final: desafios e perspectivas.",
+   "descricao": "João Lucas: Engenheiro Agrônomo, Proprietário da Vinícola Ferreira.\nMirta Bonifácio - Idealizadora e atual Administradora Azeites Fazenda Maria da Fé\nPedro Dias - Cofundador do Grandpa Joel?s Coffee - Farm & Roaster\nCarlos Henrique Moreira Carvalho - Cafeicultor, produtor de leite e presidente da Cooperrita'",
+   "local": "Academia de Dança Ândrea Falsarella",
+   "horario": "14h30 às 15h30"
+  },
+  {
+   "name": "Cannabis e abuso de drogas: justiça e saúde",
+   "descricao": "Renato Filev - PhD - bacharel em Ciências Biológicas, Doutor em Neurociências e Pós doutorando pelo Departamento de Psiquiatria e Psicologia Médica da Universidade Federal de São Paulo / Pesquisador do CEBRID / Conselheiro no CONED / Membro da SBNeC e do NEIP ? Núcleo Interdisciplinar de Estudos sobre Psicoativos e da Cultive ? Associação Cannabis e Saúde\nCecília Galicio - Advogada, Mestre em Direito Internacional Público pela Universidade de Lisboa, membro da REFORMA ? Rede Jurídica pela Reforma da Política de Drogas e da ACCURA ? Associação Cannabis Cura.",
+   "local": "Sala 64 (ETE FMC)",
+   "horario": "14h30 às 15h30"
+  },
+  {
+   "name": "Você é o que você usa",
+   "descricao": "Paula Bedran - Empreendedora social, apresentadora e influenciadora\nHeloisa Ascar - Especialista em Moda e Comportamento",
+   "local": "Sala 65 (ETE FMC)",
+   "horario": "14h30 às 15h30"
+  },
+  {
+   "name": "Cultura de Protótipos: Materializando soluções",
+   "descricao": "Marcos Paulo Silva - Service Designer e Co-Fundador da Wake Insights",
+   "local": "Anfiteatro ETE FMC",
+   "horario": "14h30 às 15h30"
+  },
+  {
+   "name": "Todo Mundo Mente",
+   "descricao": "Davi Cosso - Head of Agency no Google",
+   "local": "Auditório Sinhá Moreira (ETE FMC)",
+   "horario": "14h30 às 15h30"
+  },
+  {
+   "name": "O quinto poder: Hackeando a democracia.",
+   "descricao": "Bruno Alves - Co-fundador do Quinto",
+   "local": "Sala 81 (ETE FMC)",
+   "horario": "14h30 às 15h30"
+  },
+  {
+   "name": "O jeito brasileiro de construir negócios de alto impacto fora do eixo Sul-Sudeste",
+   "descricao": "André Nery - Group Product Manager no iFood / Co-fundador da Creative Pack",
+   "local": "Sala 82 (ETE FMC)",
+   "horario": "14h30 às 15h30"
+  },
+  {
+   "name": "O Gap de Gerações e o Futuro do Trabalho",
+   "descricao": "Sabina Deweik - Pioneira em cool hunting no Brasil'",
+   "local": "Sala 83 (ETE FMC)",
+   "horario": "14h30 às 15h30"
+  },
+  {
+   "name": "Designing you: Porque investir tempo em você?",
+   "descricao": "Rodrigo de Alvarenga - CEO & Fundador da HAG Ventures / Mentor em programas internacionais nos USA, EU, LATAM e MENA",
+   "local": "Sala 84 (ETE FMC)",
+   "horario": "14h30 às 15h30"
+  },
+  {
+   "name": "A revolução dos 40: com as novas tecnologias, as profissões e mercados têm se transformado rapidamente, criando crises e oportunidades para uma reinvenção perto dos 40 anos.",
+   "descricao": "Maurilo Andreas - Founder da Square Egg / Criou a metodologia Autores do Futuro, que transforma crianças em autores coletivos de livros",
+   "local": "Facebook DevC Space (ETE FMC)",
+   "horario": "14h30 às 15h30"
+  },
+  {
+   "name": "Negócios para Elas: como formar redes e fechar negócios",
+   "descricao": "Mariana Sayad - Co-fundadora do Observatório Luneta e Líder do Negócios para Elas",
+   "local": "Espaço Dágora (Pracinha da Câmara)",
+   "horario": "Aguardando Informação"
+  },
+  {
+   "name": "Showcase",
+   "descricao": "Stefano Loscalzo + Kamaitachi",
+   "local": "Palco Rockambole",
+   "horario": "14h45 às 15h15"
+  },
+  {
+   "name": "Compostar ou não compostar? Eis a questão.",
+   "descricao": "Iracema Bonomini - Responsável pela compostagem da Casa Erva Doce, mantém um minhocário e testa maneiras de compostar.",
+   "local": "Casa Erva Doce",
+   "horario": "15h às 16:30"
+  },
+  {
+   "name": "Educação Empreendedora: o papel das comunidades locais e seu impacto no emprego e trabalho do futuro",
+   "descricao": "Giovanna Pires, Thais Gargantini, Wladimir Antonio e Douglas Akassaka",
+   "local": "Espaço Comunidades (ETE FMC)",
+   "horario": "15h ás 17h"
+  },
+  {
+   "name": "Projetos a partir do Design: Quais cuidados devemos tomar e a partir de quais premissas podemos realizar entregas com sucesso?",
+   "descricao": "Heitor Murback e Alessandro Ng",
+   "local": "Casarão femto",
+   "horario": "15h30 às 16h"
+  },
+  {
+   "name": "Showcase",
+   "descricao": "Violet Soda",
+   "local": "Palco Rockambole",
+   "horario": "15h45 às 16h15"
+  },
+  {
+   "name": "Showcase",
+   "descricao": "Flávia K",
+   "local": "Espaço Marã Música (Johnny's bar)",
+   "horario": "16h às 17h"
+  },
+  {
+   "name": "99 apresenta: high tech com high touch",
+   "descricao": "Stella Brant - Diretora de Marketing da 99 / Co-fundadora da Explore Aprendizagem Criativa",
+   "local": "Teatro Inatel",
+   "horario": "16h às 17h"
+  },
+  {
+   "name": "Entretenimento è a Nova Religião: porque Kim Kardashian tem mais fiéis que o Papa Francisco",
+   "descricao": "Hebert Mota - CEO da Kal911 / Autor do livro ?Movimento, logo existo?",
+   "local": "Auditório Aureliano Chaves (Inatel)",
+   "horario": "16h às 17h"
+  },
+  {
+   "name": "Como criar um Produto Digital de sucesso?",
+   "descricao": "Alex Lima - Diretor de Gestão de Produtos na Work & Co",
+   "local": "Salas 15 & 17 (INATEL)",
+   "horario": "16h às 17h"
+  },
+  {
+   "name": "Como fazer uma história valer 1 milhão",
+   "descricao": "Natanael Sena - Idealizador do @vaidefusca, que há 6 anos cruza países da America Latina, junto a seu pai, em seu fusca 1984 / Fundador da Insenna agência de Storytelling.",
+   "local": "Sala 16 (INATEL)",
+   "horario": "Aguardando Informação"
+  },
+  {
+   "name": "Seja Raro",
+   "descricao": "Augusto Aielo - Cofundador da Soul Urbanismo, empresa inovadora de parklets / Fundador da Voe Sem Asas",
+   "local": "Espaço M4U (Sala 22 INATEL)",
+   "horario": "16h às 17h"
+  },
+  {
+   "name": "Engenharia de Software? Mesmo?",
+   "descricao": "Renato Mintz - Gerente Sênior da area de inovacao da Accenture",
+   "local": "Espaço Equinix (Sala 20 INATEL)",
+   "horario": "16h às 17h"
+  },
+  {
+   "name": "Aprendizados práticos de quem está fazendo Comunicação Imersiva para marcas",
+   "descricao": "Maria Eliza Flores - Fundadora e Produtora Executiva do VZLab",
+   "local": "Sala 16 (INATEL)",
+   "horario": "16h às 17h"
+  },
+  {
+   "name": "Coracionalizar",
+   "descricao": "Rodrigo Santo - Pintor, pesquisador de linguagens que desconstroem os padrões de ser, criar e expressar",
+   "local": "Sala de Física (INATEL)",
+   "horario": "16h às 17h"
+  },
+  {
+   "name": "Acessibilidade prática na web",
+   "descricao": "Ana Karine Bessa - Designer de Interação no Instituto CESAR",
+   "local": "Sala de Ideação (INATEL)",
+   "horario": "16h às 17h"
+  },
+  {
+   "name": "Inteligência de Dados para construir um futuro na música",
+   "descricao": "Dani Ribas - Diretora do DATA SIM da SIM São Paulo, primeiro hub de pesquisa brasileiro voltado especificamente ao mercado musical\nRenata Gomes - Head de marketing da importadora Habro Music / Integra o board da ONG Women in Music Brasil / Pesquisadora assistente e gerente de projetos no DATASIM (SIM São Paulo).",
+   "local": "King in the Belly Backyard (Libertas Brew Pub)",
+   "horario": "16h às 17h"
+  },
+  {
+   "name": "Inovação, natureza e co-criação: vamos falar de Biomimética",
+   "descricao": "Alessandra Araujo - Designer de Inovação, Bióloga e Facilitadora de Jornada Criativa",
+   "local": "Espaço Re-mind - Botanike (Cultive)",
+   "horario": "16h às 17h"
+  },
+  {
+   "name": "O futuro será cheio de Negócios em Comunidade, o que você precisa saber sobre!",
+   "descricao": "Jennifer Dutra Medeiros - Community Manager na Bossa Nova",
+   "local": "Espaço Re-mind - Solarium (Cultive)",
+   "horario": "16h às 17h"
+  },
+  {
+   "name": "O que temos a aprender com os ecossistemas de inovação de Israel e China?",
+   "descricao": "Lucas Bernar - Engenheiro e empreendedor social, parte do Global Shapers, iniciativa do Fórum Econômico Mundial\nPaulo Melo - Gerente de Novos Negócios no Sidia\nFrancisca Limberger - Co-fundadora do projeto IRIS???Liberdade do Feminino\nPaulo Emediato - Managing partner na DesignThinkers Group Brasil",
+   "local": "Associação José do Patrocínio",
+   "horario": "16h às 17h"
+  },
+  {
+   "name": "O futuro do Music Business",
+   "descricao": "Arthur Fitzgibbon - Presidente da ONErpm no Brasil",
+   "local": "Hotel Real Palace",
+   "horario": "16h às 17h"
+  },
+  {
+   "name": "Imigrantes Digitais: Porque estamos distantes da completa? transformação digital?",
+   "descricao": "Fabio Amado - co-fundador da WAKE Insights / Professor na Perestroika",
+   "local": "Espaço Leucotron (Salão Dom João Bergese)",
+   "horario": "16h às 17h"
+  },
+  {
+   "name": "Como seu cérebro está sabotando seu processo criativo",
+   "descricao": "Gabriela Boeira - UX Designer Researcher no CESAR",
+   "local": "Bar do Dimas",
+   "horario": "16h às 17h"
+  },
+  {
+   "name": "Mulheres: empreender é um ato heroico?",
+   "descricao": "Clara Bidorini - Head de Corporate Venture da Kyvo / Fundadora do Programa 'Change as Mindset' / Co-fundadora da Namoa\nMarcia Asano - CEO da Hekima / Especialista em Ciência de Dados e Big Data.",
+   "local": "Auditório Sebrae (Ginásio Alcidão)",
+   "horario": "16h às 17h"
+  },
+  {
+   "name": "Marketing digital para não marketeiros",
+   "descricao": "Luiza Mendonça - CEO e sócia-fundadora da startup AppGuardian, uma solução tecnológica de conexão parental que ajuda pais e mães a organizarem as rotinas digitais de seus filhos no mundo moderno por meio de aplicativos de controle parental",
+   "local": "Espaço Sebrae (Café Caruso)",
+   "horario": "16h às 17h"
+  },
+  {
+   "name": "Autocompaixão e Cultura de Confiança",
+   "descricao": "Gabrielle Picholari - Consultora em Saúde Integrativa / Leitora de aura / Facilitadora em PSYCH-K",
+   "local": "Academia de Dança Ândrea Falsarella",
+   "horario": "16h às 17h"
+  },
+  {
+   "name": "Concorrência desleal em ambiente virtual: como identificar e proibir práticas desleais, e como proteger sua ideia e seu negócio.",
+   "descricao": "Renato Francischelli - Sócio na L3P / Advogado com forte atuação em discussões judiciais e arbitrais relacionadas à concorrência desleal",
+   "local": "Sala 64 (ETE FMC)",
+   "horario": "16h às 17h"
+  },
+  {
+   "name": "A importância do rádio na difusão de novos artistas e bandas brasileiras.",
+   "descricao": "Paul Martins e Marcel Costa - Apresentadores dos programas Autoral Brasil Kiss FM (Rádio Kiss FM 92,5 SP) e Autoral Brasil USP FM (Rádio USP FM 93,7 SP).",
+   "local": "Sala 65 (ETE FMC)",
+   "horario": "16h às 17h"
+  },
+  {
+   "name": "Como ter milhões de alunos e fomentar a inovação e a aprendizagem criativa com poucos recursos? Prazer, escola pública.",
+   "descricao": "Eduardo Glitz Administrador, especialista em finanças, foi sócio da XP Investimentos por 10 anos. Em 2016 viajou por 42 países para entender o ambiente de inovação em cada um deles. Hoje é sócio da StartSe, empresa de educação para a Nova Economia com sede no Vale do Silício, Brasil e China.\nGreiton Toledo - Professor efetivo do Instituto Federal Goiano, mestre em Educação em Ciências e Matemática e doutorando em Educação Matemática. Conquistou diferentes prêmios na carreira, entre os quais se destacam: Prêmio Nacional Educador Nota 10; Prêmio Internacional Learning Creative do Massachusetts Institute of Technology; e Prêmio Paulo Freire pelo júri popular brasileiro.\nMarina da Silva Vilela - Moradora de Santa Rita do Sapucaí, durante todo o ensino básico estudou na Escola Estadual Dr. Delfim Moreira, possui formação em Técnico em Informática pelo Colégio Tecnológico Delfim Moreira e graduação em Engenharia da Computação Inatel. Atua como Especialista em Sistemas no Inatel Competente Center e cursa MBA em Gerenciamento Estratégico em Ambiente Empresarial pelo Inatel.\nThais Itaqui é jornalista da GloboNews",
+   "local": "Anfiteatro ETE FMC",
+   "horario": "16h às 17h"
+  },
+  {
+   "name": "Somos inadequadas?",
+   "descricao": "Carolina Zatorre - Antropóloga / Head de Pesquisa da Kyvo\nEstela Rocha - Curadora de conhecimento da Sputnik, braço corporativo da Perestroika / Fundadora da Associação Desportiva Feminina / Co-fundadora do projeto Cabelaço",
+   "local": "Auditório Sinhá Moreira (ETE FMC)",
+   "horario": "16h às 17h"
+  },
+  {
+   "name": "Giros Criativos: a folia para cidades inovadoras",
+   "descricao": "Decio Coutinho - Gestor de experiências em Economia Criativa e Cidades Criativas",
+   "local": "Sala 81 (ETE FMC)",
+   "horario": "16h às 17h"
+  },
+  {
+   "name": "A cultura da comunicação não violenta",
+   "descricao": "Victor Silva - Líder técnico do time de desenvolvimento na InfoPrice",
+   "local": "Sala 82 (ETE FMC)",
+   "horario": "16h às 17h"
+  },
+  {
+   "name": "Revolução Fintech: o futuro dos serviços financeiros no Brasil",
+   "descricao": "Douglas Cavendish - Head of Research na Hash",
+   "local": "Sala 83 (ETE FMC)",
+   "horario": "16h às 17h"
+  },
+  {
+   "name": "Customer Centricity at scale: como montar sua estratégia focada no cliente, mesmo trabalhando em escala",
+   "descricao": "Fernando Ranieri - Strategic Partner Manager - Google Ads",
+   "local": "Sala 84 (ETE FMC)",
+   "horario": "16h às 17h"
+  },
+  {
+   "name": "Mitos sobre propósito e o porquê a gente acorda de manhã",
+   "descricao": "Felipe Urbano - Mestre em filosofia da cultura há 10 investindo todos os dias da vida para desenvolver líderes no Brasil",
+   "local": "Facebook DevC Space (ETE FMC)",
+   "horario": "16h às 17h"
+  },
+  {
+   "name": "Não basta só mudar o nome: as transformações de um evento de moda offline com audiência digital",
+   "descricao": "Raquel Sodré - Líder de Marketing e Inovação da Feira da Moda Inverno - FEIMI",
+   "local": "Espaço Dágora (Pracinha da Câmara)",
+   "horario": "16h às 17h"
+  },
+  {
+   "name": "Showcase",
+   "descricao": "Amen Jr.",
+   "local": "Palco Rockambole",
+   "horario": "16h45 às 17h15"
+  },
+  {
+   "name": "Showcase",
+   "descricao": "Polako",
+   "local": "Espaço Marã Música (Johnny's bar)",
+   "horario": "17h às 18h"
+  },
+  {
+   "name": "Revoada das Garças",
+   "descricao": "Todos os dias, no fim da tarde, centenas de garças voam em direção a algumas árvores da Av. Beira Rio, em Santa Rita do Sapucaí, em um incrível espetáculo da natureza.",
+   "local": "Av. Beira Rio",
+   "horario": "17h30"
+  },
+  {
+   "name": "Showcase",
+   "descricao": "Banda Entalpia",
+   "local": "Casarão femto",
+   "horario": "17h30"
+  },
+  {
+   "name": "Ressignificando os festivais na era da experiência",
+   "descricao": "Franklin Costa - Sócio na consultoria f/uxo / Nômade",
+   "local": "Teatro Inatel",
+   "horario": "17h30 às 18h30"
+  },
+  {
+   "name": "How to design work that humans love.",
+   "descricao": "Ana Paula Kuroki - Líder na Mesa.Company",
+   "local": "Auditório Aureliano Chaves (Inatel)",
+   "horario": "17h30 às 18h30"
+  },
+  {
+   "name": "Mude o futuro, comece por você: as habilidades que você precisa hoje para criar o trabalho de amanhã.",
+   "descricao": "Leandro Herrera - Fundador e CEO da Tera",
+   "local": "Salas 15 & 17 (INATEL)",
+   "horario": "17h30 às 18h30"
+  },
+  {
+   "name": "De pai a empreendedor na educação",
+   "descricao": "Guilherme Rodrigues Alves - Fundador da Explore / Empreendedor educacional de impacto",
+   "local": "Sala 12 (INATEL)",
+   "horario": "17h30 às 18h30"
+  },
+  {
+   "name": "Product Operations Lead na M4U",
+   "descricao": "Luís Rodrigues - Gestão de produtos baseada em dados",
+   "local": "Espaço M4U (Sala 22 INATEL)",
+   "horario": "17h30 às 18h30"
+  },
+  {
+   "name": "Liderança fora do ambiente corporativo.",
+   "descricao": "Gabriela Terra - Empreendedora em rede na Magenta / Diretora de Whatever na Perestroika",
+   "local": "Espaço Equinix (Sala 20 INATEL)",
+   "horario": "17h30 às 18h30"
+  },
+  {
+   "name": "Discovery & Delivery: Otimizando processos de entrega de novos produtos",
+   "descricao": "Rodrigo Kleinert - Product Owner na SumUp",
+   "local": "Sala 16 (INATEL)",
+   "horario": "17h30 às 18h30"
+  },
+  {
+   "name": "Universo, futurologia e física quântica.",
+   "descricao": "Jorge Groove - Produtor de conteúdo imersivo audiovisual / Artista 3D / Membro fundador do XRBR",
+   "local": "Sala de Física (INATEL)",
+   "horario": "17h30 às 18h30"
+  },
+  {
+   "name": "Blockchain no seu caminho",
+   "descricao": "Sergio Ramos de Faria - Scrum Master do Accenture Liquid Studio",
+   "local": "Sala de Ideação (INATEL)",
+   "horario": "17h30 às 18h30"
+  },
+  {
+   "name": "O Pioneirismo das Mulheres no Rock Brasileiro",
+   "descricao": "Erika Martins - Cantora e compositora, integrante da banda Autoramas",
+   "local": "King in the Belly Backyard (Libertas Brew Pub)",
+   "horario": "17h30 às 18h30"
+  },
+  {
+   "name": "Conheça-te a ti mesmo, se não o algoritimo vai! Uma conversa sobre Soft Economy e os Mapas de Transição",
+   "descricao": "Ligia Zotini - Pesquisadora e Pensadora de Futuros / Fundadora do Voicers",
+   "local": "Espaço Re-mind - Botanike (Cultive)",
+   "horario": "17h30 às 18h30"
+  },
+  {
+   "name": "A felicidade no dia a dia das pessoas e das organizações",
+   "descricao": "Carolina Romano - Sócia-fundadora da Maker Brands e idealizadora da Jornada da Felicidade",
+   "local": "Espaço Re-mind - Solarium (Cultive)",
+   "horario": "17h30 às 18h30"
+  },
+  {
+   "name": "Cannabis Regenerativa",
+   "descricao": "Ricardo Tolomelli - Idealizador do GrowKnow.how / Cultivador de cannabis há mais de 12 anos, se mudou para o Uruguay em 2015 para poder se dedicar integralmente ao tema",
+   "local": "Associação José do Patrocínio",
+   "horario": "17h30 às 18h30"
+  },
+  {
+   "name": "Como potencializar os rendimentos da sua música com direitos autorais",
+   "descricao": "Elisa Eisenlohr - Gerente de Comunicação na União Brasileira de Compositores (UBC)",
+   "local": "Hotel Real Palace",
+   "horario": "17h30 às 18h30"
+  },
+  {
+   "name": "Startups e Grandes Empresas: o Lado Cultural da Força",
+   "descricao": "Paulo Costa - Diretor da Accenture Ventures",
+   "local": "Espaço Leucotron (Salão Dom João Bergese)",
+   "horario": "17h30 às 18h30"
+  },
+  {
+   "name": "Empatia e Inovação na prática: como planejar e conduzir dinâmicas de co-criação",
+   "descricao": "Nicoli Ferraz - Designer na Handmade UX",
+   "local": "Bar do Dimas",
+   "horario": "17h30 às 18h30"
+  },
+  {
+   "name": "Cheguei no vale do silício e agora, uma palestra sobre internacionalização de startups",
+   "descricao": "Rodrigo Terron - CEO da Shawee",
+   "local": "Auditório Sebrae (Ginásio Alcidão)",
+   "horario": "17h30 às 18h30"
+  },
+  {
+   "name": "Grandes empresas e universidades, onde a inovação é super aberta",
+   "descricao": "Leo Tostes - Co-founder e especialista em open innovation na Haze Shift Studio",
+   "local": "Espaço Sebrae (Café Caruso)",
+   "horario": "17h30 às 18h30"
+  },
+  {
+   "name": "LA PLANTA, Cannabis Medicinal como experiência cinematográfica transformadora no Uruguai",
+   "descricao": "Beto Brant - Diretor de cinema premiado internacionalmente, dirigiu filmes importantes da história do cinema brasileiro como Os Matadores e Ação Entre Amigos. É sócio da empresa Drama Filmes, e produziu e dirigiu os filmes O Invasor, Crime Delicado, Cão Sem Dono, O amor segundo B.Schianberg e Eu receberia as piores notícias dos seus lindos lábios. Seu documentário Pitanga participou da 40a Mostra de Cinema de São Paulo em 2016 e recebeu o Prêmio da Crítica de Melhor Filme Brasileiro.\nYael Steiner - Uruguaia brasileira empreendedora cultural e cineasta que credita no poder transformador das narrativas curativas audiovisuais, dos núcleos criativos inspiradores de protagonismo cultural e humano. Atualmente está desenvolvendo os Núcleos Criativos latino americanos e alguns projetos autorais.",
+   "local": "Academia de Dança Ândrea Falsarella",
+   "horario": "17h30 às 18h30"
+  },
+  {
+   "name": "Microbioma e alimentos fermentados",
+   "descricao": "Lígia Moraes de Campos - Cientista de Alimentos",
+   "local": "Sala 64 (ETE FMC)",
+   "horario": "17h30 às 18h30"
+  },
+  {
+   "name": "Eventos com Impacto Positivo: da festa open bar ao festival de bem-estar",
+   "descricao": "Armando Mandi - Sócio realizador da Virada Zen / Diretor da Virada Sustentável São Paulo",
+   "local": "Sala 65 (ETE FMC)",
+   "horario": "17h30 às 18h30"
+  },
+  {
+   "name": "Como as startups e a tecnologia vem impactando o mercado da música?",
+   "descricao": "Thaty Moura - Jornalista e sócia da consultoria de branding e comunicação para músicos Be Louder\nBruno Justi - Fundador da Bee My Ears, Los Angeles / Músico e Produtor\nCarla Figlia - Relações Artísticas e Embaixadora da Bee My Ears no Brasil / Business Development na ONErpm.\nMarcelo Coelho - Saxofonista, compositor e pesquisador",
+   "local": "Anfiteatro ETE FMC",
+   "horario": "17h30 às 18h30"
+  },
+  {
+   "name": "Burning Down the House",
+   "descricao": "Luciana Bazanella: Co-founder White Rabbit, é pesquisadora, palestrante e facilitadora focada inovação, tecnologias emergentes, novos paradigmas da comunicação e tudo que se relaciona com propósito e a revolução da consciência.\nVanessa Mathias: Co-founder White Rabbit, é consultora de tendências futuras e inovação, prevendo cenários possíveis para a sociedade e empresas. É facilitadora profissional, especialista em previsão de cenários futuros e foresight.",
+   "local": "Auditório Sinhá Moreira (ETE FMC)",
+   "horario": "17h30 às 18h30"
+  },
+  {
+   "name": "Fotografia Documental de Família: como as próximas gerações vão lembrar de você?",
+   "descricao": "Grazi Ventura - Fotógrafa de Família / Criadora do projeto 'Quem Fomos Nós'",
+   "local": "Sala 81 (ETE FMC)",
+   "horario": "17h30 às 18h30"
+  },
+  {
+   "name": "Hipnose para Controlar a Ansiedade",
+   "descricao": "Renato Endo - Mental Coach de Atletas e Fundador da Deeper Co",
+   "local": "Sala 82 (ETE FMC)",
+   "horario": "17h30 às 18h30"
+  },
+  {
+   "name": "RH: tem, mas acabou",
+   "descricao": "Ludymila Pimenta - Fundadora do RHlab, laboratório de construção do futuro do trabalho por meio de HRaaS (HR as a service)",
+   "local": "Sala 83 (ETE FMC)",
+   "horario": "17h30 às 18h30"
+  },
+  {
+   "name": "Design de interações entre pessoas. O que você quer hackear?",
+   "descricao": "Dreyson Queiroz: Sócio e Designer de interações entre pessoas na Clash",
+   "local": "Sala 84 (ETE FMC)",
+   "horario": "17h30 às 18h30"
+  },
+  {
+   "name": "Inscrição de empresas e startups que queiram divulgar suas vagas -> https://pt.surveymonkey.com/r/2HCQNJF",
+   "descricao": "We Want You",
+   "local": "Facebook DevC Space (ETE FMC)",
+   "horario": "17h30 às 18h30"
+  },
+  {
+   "name": "Você é o que você usa",
+   "descricao": "Paula Bedran - Empreendedora social, apresentadora e influenciadora",
+   "local": "Espaço Dágora (Pracinha da Câmara)",
+   "horario": "17h30 às 18h30"
+  },
+  {
+   "name": "Showcase",
+   "descricao": "Scatolove",
+   "local": "Palco Rockambole",
+   "horario": "17h45 às 18h45"
+  },
+  {
+   "name": "Casa TIM 5G",
+   "descricao": "Atrações musicais na varanda da casa",
+   "local": "Cas@ Viva (INATEL)",
+   "horario": "18h às 22h"
+  },
+  {
+   "name": "Happy Hour Nikita Music Digital",
+   "descricao": "Bate papo com Chico Ribeiro, um dos maiores especialistas em execução pública no Brasil",
+   "local": "Relicário Antiquário",
+   "horario": "18h às 21h"
+  },
+  {
+   "name": "Showcase",
+   "descricao": "Mamamute",
+   "local": "Espaço Marã Música (Johnny's bar)",
+   "horario": "18h às 19h"
+  },
+  {
+   "name": "Showcase",
+   "descricao": "Gabriel Thomas Trio",
+   "local": "King in the Belly Backyard (Libertas Brew Pub)",
+   "horario": "18h45 às 19h30"
+  },
+  {
+   "name": "Showcase",
+   "descricao": "Overdrive Luna",
+   "local": "Espaço Marã Música (Johnny's bar)",
+   "horario": "19h às 20h"
+  },
+  {
+   "name": "Showcase",
+   "descricao": "Aline Ramos",
+   "local": "Casarão femto",
+   "horario": "19h"
+  },
+  {
+   "name": "Showcase",
+   "descricao": "Sandro",
+   "local": "Palco Rockambole",
+   "horario": "19h15 às 20h"
+  },
+  {
+   "name": "Pitch Sessions",
+   "descricao": "Startups que desejam se apresentar para a comunidade do Hacktown, que engloba desde o público mais early adopter do Brasil até grandes empresas, fundos de investimento, aceleradoras, incubadoras e todo o ecossistema de empreendedorismo e inovação. As apresentações acontecem a noite e tem foco na conexão. As melhores startups serão premiadas ao final de cada sessão.",
+   "local": "Auditório Aureliano Chaves (Inatel)",
+   "horario": "19h30 às 21h"
+  },
+  {
+   "name": "iGOVnigths",
+   "descricao": "O iGOVnigths é um movimento organizado por servidores públicos apaixonados por inovação com o objetivo de trocar experiências e conectar pessoas que estejam engajadas com o propósito de mudar/transformar os serviços públicos por meio da inovação.",
+   "local": "Dija Gastronomia",
+   "horario": "19h30 às 22h"
+  },
+  {
+   "name": "Sofar Sounds",
+   "descricao": "3 dias de shows secretos em um projeto musical presente em centenas de cidades do mundo todo. Ingressos vendidos antecipadamente.",
+   "local": "Local secreto",
+   "horario": "20h às 00h"
+  },
+  {
+   "name": "Showcase",
+   "descricao": "MushGroom",
+   "local": "Espaço Marã Música (Johnny's bar)",
+   "horario": "20h às 21h"
+  },
+  {
+   "name": "TechJam com Henrique Portugal: Uma Jam sobre Música, Inovação e Futuros",
+   "descricao": "Henrique Portugal - Tecladista do Skank / Investidor na Confrapar / Sócio da Bioneem",
+   "local": "King in the Belly Backyard (Libertas Brew Pub)",
+   "horario": "20h às 21h30"
+  },
+  {
+   "name": "Showcase",
+   "descricao": "Mikka e Kiko Perrone",
+   "local": "Casarão femto",
+   "horario": "20h30"
+  },
+  {
+   "name": "Showcase",
+   "descricao": "Supercombo",
+   "local": "Palco Rockambole",
+   "horario": "20h45 às 22h15"
+  },
+  {
+   "name": "Meetup Startup Grind",
+   "descricao": "Aguardando Informação",
+   "local": "Restaurante Choppirado",
+   "horario": "21h30"
+  },
+  {
+   "name": "Showcase",
+   "descricao": "Dingo Bells",
+   "local": "King in the Belly Backyard (Libertas Brew Pub)",
+   "horario": "22h às 23h"
+  },
+  {
+   "name": "Showcase",
+   "descricao": "Nanda Mazza",
+   "local": "Casarão femto",
+   "horario": "22h"
+  },
+  {
+   "name": "Showcase",
+   "descricao": "NDK",
+   "local": "Espaço Marã Música (Johnny's bar)",
+   "horario": "22h às 23h"
+  },
+  {
+   "name": "Showcase",
+   "descricao": "Keops e Raony",
+   "local": "Espaço Marã Música (Johnny's bar)",
+   "horario": "23h às 00h"
+  },
+  {
+   "name": "Showcase",
+   "descricao": "O Grilo",
+   "local": "King in the Belly Backyard (Libertas Brew Pub)",
+   "horario": "23h30 às 00h30"
+  },
+  {
+   "name": "Showcase",
+   "descricao": "Patronagens Band",
+   "local": "Casarão femto",
+   "horario": "23h30"
+  },
+  {
+   "name": "Showcase",
+   "descricao": "DJ Diego Franchi",
+   "local": "Espaço Marã Música (Johnny's bar)",
+   "horario": "00h"
+  },
+  {
+   "name": "Showcase",
+   "descricao": "Trinity's",
+   "local": "Casarão femto",
+   "horario": "00h30"
+  }
+ ],
+ "dia07": [
+  {
+   "name": "Credenciamento",
+   "descricao": "O ingresso dá direito a curtir toda a programação oficial do HackTown. O credenciamento é feito apenas uma vez no evento todo.",
+   "local": "Teatro Inatel",
+   "horario": "07h às 17h"
+  },
+  {
+   "name": "Casa TIM 5G",
+   "descricao": "Visitação",
+   "local": "Cas@ Viva (INATEL)",
+   "horario": "08h30 às 18h30"
+  },
+  {
+   "name": "Marketing Científico: Recodificando o Profissional de Marketing pro Futuro",
+   "descricao": "Phelipe Xavier - Growth Mentor Google Launchpad / Cientista no Instituto Marketing Científico.",
+   "local": "Teatro Inatel",
+   "horario": "08h30 às 09h30"
+  },
+  {
+   "name": "Consciência 5.0: o próximo passo da nossa espécie",
+   "descricao": "Guilherme Romano - Fundador da Self Revolution",
+   "local": "Auditório Aureliano Chaves (Inatel)",
+   "horario": "08h30 às 09h30"
+  },
+  {
+   "name": "Chega de enrolação! Estratégias de comunicação que funcionam e você pode aprender agora.",
+   "descricao": "Sheylli Caleffi - Especialista em treinar pessoas que precisam falar em público e em frente as câmeras",
+   "local": "Salas 15 & 17 (INATEL)",
+   "horario": "08h30 às 09h30"
+  },
+  {
+   "name": "Nós , quem, cara pálida?’ A Construção de Identidades, Pertencimento e Extremismo no Neo-Tribalismo Digital",
+   "descricao": "Valéria Brandini - Antropóloga Empresarial / Cultural Hacker",
+   "local": "Sala 12 (INATEL)",
+   "horario": "Aguardando Informação"
+  },
+  {
+   "name": "Dá para automatizar a criatividade com Inteligência Artificial?",
+   "descricao": "Vinicius Soares - Fundador da Mais a.i. e do AiNews Network",
+   "local": "Espaço M4U (Sala 22 INATEL)",
+   "horario": "08h30 às 09h30"
+  },
+  {
+   "name": "O que o jornalismo aprenderá com o futuro?",
+   "descricao": "Isaque Criscuolo - Content Distribution Strategist no Meio&Mensagem",
+   "local": "Espaço Equinix (Sala 20 INATEL)",
+   "horario": "08h30 às 09h30"
+  },
+  {
+   "name": "Protagonismo na sua narrativa pessoal: como contar ao mundo quem você é?",
+   "descricao": "Lais Grilletti - Storyteller na Endeavor Brasil",
+   "local": "Sala 16 (INATEL)",
+   "horario": "08h30 às 09h30"
+  },
+  {
+   "name": "Como criar um mundo melhor, somente aprimorando a você mesmo e ao seu ambiente.",
+   "descricao": "Guilherme Viotti - Fundador e força executiva do IDETRA.ORG",
+   "local": "Sala de Física (INATEL)",
+   "horario": "08h30 às 09h30"
+  },
+  {
+   "name": "Antropologia e Mercado",
+   "descricao": "Carolina Zatorre - Antropóloga / Head de Pesquisa da Kyvo",
+   "local": "Sala de Ideação (INATEL)",
+   "horario": "08h30 às 09h30"
+  },
+  {
+   "name": "Como é se tornar digital depois dos 50",
+   "descricao": "Claudia Nascimento - 55 anos, 3 filhos adultos e um neto. Nunca se interessou por tecnologia, até voltar a estudar e descobrir que o mundo tinha mudado.",
+   "local": "Espaço Re-mind - Botanike (Cultive)",
+   "horario": "Aguardando Informação"
+  },
+  {
+   "name": "De produtor de filmes à Burocrata. Sem perder a identidade.",
+   "descricao": "Eliseu Gonçalves - Técnico em Gestão na Sabesp.",
+   "local": "Espaço Re-mind - Solarium (Cultive)",
+   "horario": "Aguardando Informação"
+  },
+  {
+   "name": "Africanidade que habita em nós",
+   "descricao": "Patrícia Vigilato - Historiadora e professora / Integrante do Imagina Juntas, movimento para a liberdade do feminino",
+   "local": "Associação José do Patrocínio",
+   "horario": "08h30 às 09h30"
+  },
+  {
+   "name": "Navegando por Cidades Inteligentes",
+   "descricao": "Stella Hiroki - Fundadora do Smart City Talks / Doutora em Cidades Inteligentes",
+   "local": "Espaço Leucotron (Salão Dom João Bergese)",
+   "horario": "08h30 às 09h30"
+  },
+  {
+   "name": "Por que uma cidade melhor para as mulheres é melhor para todo mundo?",
+   "descricao": "Fernanda Carpegiani - Comunicadora e copilota do Formiga-me\nCarmem Guerreiro - Comunicadora e copilota do Formiga-me",
+   "local": "Bar do Dimas",
+   "horario": "08h30 às 09h30"
+  },
+  {
+   "name": "A era de ouro do áudio",
+   "descricao": "Marcela Ponce de Leon - Co-Founder, diretora e produtora do Baseado em Fatos Surreais e host do CreativeMornings São Paulo",
+   "local": "Auditório Sebrae (Ginásio Alcidão)",
+   "horario": "08h30 às 09h30"
+  },
+  {
+   "name": "Darwinismo Empresarial",
+   "descricao": "Alexandre Inserra - Alexandre Inserra: 25 anos de experiência na Indústria e em consultoria de gestão de negócios, no Brasil e Alemanha",
+   "local": "Espaço Sebrae (Café Caruso)",
+   "horario": "08h30 às 09h30"
+  },
+  {
+   "name": "Instituto Regeneração Global: Iniciativa para toda humanidade",
+   "descricao": "Fabiano Porto - Presidente Cofundador no Instituto Regeneração Global",
+   "local": "Sala 64 (ETE FMC)",
+   "horario": "08h30 às 09h30"
+  },
+  {
+   "name": "O que a cultura GIT pode nos ensinar sobre relacionamentos?",
+   "descricao": "Diego Imbert - Consultor Existencial e Professor na Coexiste",
+   "local": "Sala 65 (ETE FMC)",
+   "horario": "08h30 às 09h30"
+  },
+  {
+   "name": "Consciência Humana e Inteligência Artificial: aliados ou inimigos?",
+   "descricao": "Lúcia Helena Galvão - Poetisa e professora de filosofia na Organização Nova Acrópole do Brasil",
+   "local": "Auditório Sinhá Moreira (ETE FMC)",
+   "horario": "08h30 às 09h30"
+  },
+  {
+   "name": "Seja o professor que você queria ter tido",
+   "descricao": "Clara Prado - Professora de inglês e inovação social na escola Avenues São Paulo",
+   "local": "Sala 81 (ETE FMC)",
+   "horario": "08h30 às 09h30"
+  },
+  {
+   "name": "Sinhá Moreira na Broadway: o processo criativo de Luzes de Luzia",
+   "descricao": "João Taero - Professor e Produtor Cultural na ETE FMC",
+   "local": "Sala 82 (ETE FMC)",
+   "horario": "08h30 às 09h30"
+  },
+  {
+   "name": "Negócios Sociais: uma sociedade na qual dinheiro é meio e as pessoas são o fim",
+   "descricao": "Laura Leme - Comunicadora na Bemtevi Investimento Social",
+   "local": "Sala 83 (ETE FMC)",
+   "horario": "08h30 às 09h30"
+  },
+  {
+   "name": "Não é magia, é tecnologia!",
+   "descricao": "Paulo Alvarenga - Professor de Computação na Unifei - Campus Itabira / Coach das equipes de Maratona de Programação, pesquisa na área de Recuperação de Informação e Sistemas de Recomendação com técnicas de Machine Learning",
+   "local": "Sala 84 (ETE FMC)",
+   "horario": "08h30 às 09h30"
+  },
+  {
+   "name": "Indústria 4.0, educação 4.0, organizações exponenciais, Yoga e Ayurveda. Como tudo isso se conecta?",
+   "descricao": "Fernando Almeida - Fundador da 3Dimensional Fabricação Digital / Consultor em impressão 3D / Praticante do Yoga e da Ayurveda",
+   "local": "Facebook DevC Space (ETE FMC)",
+   "horario": "08h30 às 09h30"
+  },
+  {
+   "name": "Colabora que Cola! cultura do nós: uma questão de sobrevivência",
+   "descricao": "Fabiana Schimitz - Co-fundadora da Ciranda de Soli e autora do livro 'Perfis' / Analista de Marketing do Sebrae.",
+   "local": "Espaço Dágora (Pracinha da Câmara)",
+   "horario": "08h30 às 09h30"
+  },
+  {
+   "name": "Espaço Scania reservado para encontros de negócios",
+   "descricao": "Use para fazer negócios :)",
+   "local": "Espaço Scania (Praça da Câmara)",
+   "horario": "9h às 18h"
+  },
+  {
+   "name": "Foto Clube Vale do Sapucaí",
+   "descricao": "Aguardando Informação",
+   "local": "Casa Erva Doce",
+   "horario": "9h às 22h"
+  },
+  {
+   "name": "INATEL STARTUPS Experience: Tour com demonstração dos ambientes de trabalho, estratégias utilizadas para desenvolvimento de negócios inovadores e visitas às startups.",
+   "descricao": "Duração: 30 min\nNúmero de participantes por grupo: 20",
+   "local": "NEMP (INATEL)",
+   "horario": "10h às 10h30"
+  },
+  {
+   "name": "Habro Music Lab",
+   "descricao": "Aguardando Informação",
+   "local": "King in the Belly Backyard (Libertas Brew Pub)",
+   "horario": "10h às 11h"
+  },
+  {
+   "name": "IOT para todos: o ?futuro? que chega de forma acessível em nossas casasLuciano Barbosa – Head do projeto Xiaomi no Brasil",
+   "descricao": "Luciano Barbosa - Head do projeto Xiaomi no Brasil",
+   "local": "Teatro Inatel",
+   "horario": "10h às 11h"
+  },
+  {
+   "name": "Hi Tech, Hi Touch. A tecnologia mais disruptiva que existe é sua capacidade de ser humano.",
+   "descricao": "Leonardo Aguiar - Médico / Cocriador de Saúde na Laduo",
+   "local": "Auditório Aureliano Chaves (Inatel)",
+   "horario": "10h às 11h"
+  },
+  {
+   "name": "Tirando as lentes de gringo: por que tropicalizar tendências?",
+   "descricao": "Rebeca de Moraes - Sócia-fundadora da Soledad",
+   "local": "Salas 15 & 17 (INATEL)",
+   "horario": "10h às 11h"
+  },
+  {
+   "name": "De volta às origens do Café: a nova geração assume",
+   "descricao": "Nicholas Dias - Sócio do Grandpa Joel?s Coffee\nLaura Barros - Fundadora do Condado Coffee. Economista pela USP, empreendedora serial no Brasil e pelo mundo, Desenvolvedora JavaScript e Exportadora de Cafés Especiais.\nLucas Alckmin - Fundador do Bella Vista Cafés Especiais\nFelipe Capistrano - Fundador das marcas dblack Cafés Especiais e Café Vintém / Idealizador do projeto Rota dblack\nBreno Mesquita - Cafeicultor, diretor da FAEMG e presidente das Comissões de Café da FAEMG e da CNA",
+   "local": "Sala 12 (INATEL)",
+   "horario": "10h às 11h"
+  },
+  {
+   "name": "Lendo mentes com Machine Learning e EEG",
+   "descricao": "Vitor Casadei - Engenheiro de Machine Learning no Instituto CESAR",
+   "local": "Espaço M4U (Sala 22 INATEL)",
+   "horario": "10h às 11h"
+  },
+  {
+   "name": "Back to the Future",
+   "descricao": "Hugo Santos - Diretor de Planejamento na WMcCann",
+   "local": "Espaço Equinix (Sala 20 INATEL)",
+   "horario": "10h às 11h"
+  },
+  {
+   "name": "Empreendedorismo de alto impacto no Brasil",
+   "descricao": "Diego Martins - Fundador e CEO da Acesso Digital",
+   "local": "Sala 16 (INATEL)",
+   "horario": "10h às 11h"
+  },
+  {
+   "name": "O futuro é passado no presente",
+   "descricao": "Cristiano Borges Franco - Facilitador de processos criativos",
+   "local": "Sala de Física (INATEL)",
+   "horario": "10h às 11h"
+  },
+  {
+   "name": "Jornais ou redes sociais? O que gera mais valor para a marca?",
+   "descricao": "Ana Luísa Amore - Assessora de comunicação e imprensa na Toro Investimentos",
+   "local": "Sala de Ideação (INATEL)",
+   "horario": "10h às 11h"
+  },
+  {
+   "name": "O Recordar de um novo mundo",
+   "descricao": "Gustavo Tanaka - Escritor, compositor, palestrante e empreendedor. Autor dos livros 11 Dias de Despertar, Depois do Despertar e Colunista da Revista Vida Simples. Idealizador de movimentos que promovem a transformação do ser humano como o Brotherhood e o Círculo de Virtudes.",
+   "local": "Espaço Re-mind - Botanike (Cultive)",
+   "horario": "10h às 11h"
+  },
+  {
+   "name": "5.5 G://sendo.td",
+   "descricao": "Denise Lagrota - Curadora de conteúdo / Designer de experiências",
+   "local": "Espaço Re-mind - Solarium (Cultive)",
+   "horario": "10h às 11h"
+  },
+  {
+   "name": "Conexão e Transformação do Ecossistema de Inovação de São Paulo",
+   "descricao": "Fabio Zoppi Barrionuevo - Gestor Estadual do Programa Startup SP do SEBRAE/SP\nFranklin Ribeiro - Head Startup Ecosystem\nFelipe Massami Maruyama - Diretor Técnico de Apoio ao Empreendedorismo Inovador na Secretaria de Inovação e Tecnologia da Cidade de São Paulo",
+   "local": "Associação José do Patrocínio",
+   "horario": "10h às 11h"
+  },
+  {
+   "name": "Spin Selling: uma revolução no seu processo de vendas",
+   "descricao": "Daniel Domingues - Gerente de Negócios na Leucotron.",
+   "local": "Espaço Leucotron (Salão Dom João Bergese)",
+   "horario": "10h às 11h"
+  },
+  {
+   "name": "Flow, a nova fronteira do desenvolvimento humano",
+   "descricao": "Cadu Lemos - Pesquisador e facilitador de processos de alta performance",
+   "local": "Bar do Dimas",
+   "horario": "10h às 11h"
+  },
+  {
+   "name": "Deepfake: agora F#&$@!",
+   "descricao": "Cleber Paradela - Head de Brand Experience da 99\nBrunno Sartori - Mineiro de Unaí, jornalista, deepfaker mais conhecido do Brasil, vencedor do MemeAwards 2019, ficou conhecido na imprensa e redes sociais por fazer esquetes humorísticas com políticos utilizando a técnica de deepfake",
+   "local": "Auditório Sebrae (Ginásio Alcidão)",
+   "horario": "10h às 11h"
+  },
+  {
+   "name": "Painel com Investidores Anjo – Núcleo Sul de Minas",
+   "descricao": "José Cesar Guiotti: Consultor em gestão, finanças e estratégia. Experiência em consultoria com startups de tecnologia nos últimos 12 anos. Membro de: Anjos do Brasil, IBEF e IBGC. Investidor Anjo, co-fundador do Núcleo Sul de Minas e conselheiro de empresas. Sócio da Costart.",
+   "local": "Espaço Sebrae (Café Caruso)",
+   "horario": "10h às 11h"
+  },
+  {
+   "name": "Ressignificar a comunicação para gerar conexões que transformam",
+   "descricao": "Marcela Gramático - Empreendedora social no projeto Comunicação para ir além\nJana Filartiga - Co-facilitadora no Projeto Comunicação para ir Além\nPatricia Monte - Head de Comunicação e desenvolvimento pessoal no Projeto Comunicação para ir Além",
+   "local": "Academia de Dança Ândrea Falsarella",
+   "horario": "10h às 11h"
+  },
+  {
+   "name": "Cenários e Perspectivas no Entretenimento pós-moderno",
+   "descricao": "Camilo D?Ornellas - Consultor de segurança em grandes eventos / Especialista na gestão de multidões",
+   "local": "Sala 64 (ETE FMC)",
+   "horario": "10h às 11h"
+  },
+  {
+   "name": "Cases de design de Informação: como o pensamento visual impulsiona o universo dos negócios",
+   "descricao": "Mila Motomura - Sócia-fundadora da empresa MooM de design de informações",
+   "local": "Sala 65 (ETE FMC)",
+   "horario": "10h às 11h"
+  },
+  {
+   "name": "Quem é o Protagonista da Experiência dos Seus Clientes?",
+   "descricao": "Rodrigo Tavares - Diretor de Atendimento a Clientes do PagSeguro",
+   "local": "Anfiteatro ETE FMC",
+   "horario": "10h às 11h"
+  },
+  {
+   "name": "Organização Digital em época de Marie Kondo",
+   "descricao": "Alexandre Oyamada - Diretor de pesquisa e planejamento na Scoop&Co",
+   "local": "Sala 81 (ETE FMC)",
+   "horario": "10h às 11h"
+  },
+  {
+   "name": "Design guiando inovações no setor público: a saúde mental",
+   "descricao": "Raquel Manzanares - Pesquisadora em engenharia de produção (Núcleo AlterNativas - UFMG).",
+   "local": "Sala 82 (ETE FMC)",
+   "horario": "10h às 11h"
+  },
+  {
+   "name": "Marketing Digital: como construir uma estratégia de lançamento",
+   "descricao": "Marina Amano - Diretora de Marketing da Listo Music",
+   "local": "Sala 83 (ETE FMC)",
+   "horario": "10h às 11h"
+  },
+  {
+   "name": "Jornada Security by Design: o que nao te contaram e você precisa saber para entregar aplicações com integridade, alta disponibilidade e confiabilidade para seus clientes e usuários.",
+   "descricao": "Paula Papis e Alessandra Martins - Empreendedoras na Comunidade CyberSecurityGirls",
+   "local": "Sala 84 (ETE FMC)",
+   "horario": "10h às 11h"
+  },
+  {
+   "name": "Mulheres na Computação",
+   "descricao": "Marcia Asano - CEO da Hekima / Especialista em Ciência de Dados e Big Data.",
+   "local": "Facebook DevC Space (ETE FMC)",
+   "horario": "10h às 11h"
+  },
+  {
+   "name": "Fazejamento: estratégias para FAZER",
+   "descricao": "Tatiane Costa Leite - Aceleradora de líderes / Consultora empresarial, mentora, coach para negócios, startups e professora universitária",
+   "local": "Espaço Dágora (Pracinha da Câmara)",
+   "horario": "Aguardando Informação"
+  },
+  {
+   "name": "Fundando startups com uma comunidade estruturada: experiências e aprendizados",
+   "descricao": "Guilherme Andrigueti, Founder Magikey e Paulo Gomide (Founder da Smarttbot)",
+   "local": "Espaço Comunidades (ETE FMC)",
+   "horario": "10h ás 11h"
+  },
+  {
+   "name": "Meetup Smart Rights",
+   "descricao": "Conheça uma nova tecnologia de gestão de royalties, e descubra como a ciência de dados, o machine learning e a blockchain vão transformar completamente sua experiência com arrecadação, distribuição e inteligência de royalties.",
+   "local": "SIS Coworking",
+   "horario": "10h às 12h"
+  },
+  {
+   "name": "INATEL STARTUPS Experience: Tour com demonstração dos ambientes de trabalho, estratégias utilizadas para desenvolvimento de negócios inovadores e visitas às startups.",
+   "descricao": "Duração: 30 min\nNúmero de participantes por grupo: 20",
+   "local": "NEMP (INATEL)",
+   "horario": "10h40 às 11h10"
+  },
+  {
+   "name": "Blockchain no mundo real",
+   "descricao": "Saint Clair Izidoro - CEO da 3XBit",
+   "local": "Espaço Comunidades (ETE FMC)",
+   "horario": "11h ás 12h"
+  },
+  {
+   "name": "INATEL STARTUPS Experience: Tour com demonstração dos ambientes de trabalho, estratégias utilizadas para desenvolvimento de negócios inovadores e visitas às startups.",
+   "descricao": "Duração: 30 min\nNúmero de participantes por grupo: 20",
+   "local": "NEMP (INATEL)",
+   "horario": "11h20 às 11h50"
+  },
+  {
+   "name": "Redefinindo o conceito de Inovação Social",
+   "descricao": "Gabriel Gomes - Gerente de Inovação Social na Red Bull",
+   "local": "Teatro Inatel",
+   "horario": "11h30 às 12h30"
+  },
+  {
+   "name": "Você cuida de que? Caminhos para os líderes do futuro emergente!",
+   "descricao": "Thianne Martins - Iniciadora da Cuidadoria",
+   "local": "Auditório Aureliano Chaves (Inatel)",
+   "horario": "11h30 às 12h30"
+  },
+  {
+   "name": "Menos empreendedorismo, por favor!",
+   "descricao": "Paulo Emediato - Managing partner na DesignThinkers Group Brasil",
+   "local": "Salas 15 & 17 (INATEL)",
+   "horario": "11h30 às 12h30"
+  },
+  {
+   "name": "A importância de protótipos em projetos de inovação",
+   "descricao": "Guilherme Zaia Lorenz - Ux Designer na Mandaê",
+   "local": "Sala 12 (INATEL)",
+   "horario": "Aguardando Informação"
+  },
+  {
+   "name": "Product Delivery Managment: Como Entregamos Valor?",
+   "descricao": "Josiane Araujo - Delivery Manager Lead na M4U",
+   "local": "Espaço M4U (Sala 22 INATEL)",
+   "horario": "11h30 às 12h30"
+  },
+  {
+   "name": "Transformação: de onde vem e para onde nos leva?",
+   "descricao": "Viviane Campos de Menezes - Gerente de Produtos na Equinix e uma das líderes do Chapter da Singularity University no Rio de Janeiro",
+   "local": "Espaço Equinix (Sala 20 INATEL)",
+   "horario": "11h30 às 12h30"
+  },
+  {
+   "name": "Inteligência Artificial – Da lousa para as ruas … nem tudo são flores …",
+   "descricao": "Eduardo Endo - Head de Produtos Digitais Cognitivos na Mutant",
+   "local": "Sala 16 (INATEL)",
+   "horario": "11h30 às 12h30"
+  },
+  {
+   "name": "Estou colapsando, e agora?! A Era dos Super Humanos",
+   "descricao": "Leandro Roldan - Co-fundador da Colmeia Humana e da Rocket Inovação / Head de Administração e Capital Humano na Jowatec / Membro Apoiador da Mentores do Brasil",
+   "local": "Sala de Física (INATEL)",
+   "horario": "11h30 às 12h30"
+  },
+  {
+   "name": "Artists & Brands Done Right!",
+   "descricao": "Afonso Marcondes - Chief Music Brainstorming Officer na Sync Originals",
+   "local": "Sala de Ideação (INATEL)",
+   "horario": "11h30 às 12h30"
+  },
+  {
+   "name": "Tecnologia & Favela| Elementos Essenciais para Construção do Futuro",
+   "descricao": "Solange Luz - Content no Voicers",
+   "local": "Espaço Re-mind - Botanike (Cultive)",
+   "horario": "11h30 às 12h30"
+  },
+  {
+   "name": "Palavras pra recuperar a nossa humanidade: quais delas você anda consumindo?",
+   "descricao": "Tânia Savaget - Head de Cultura, Comunicação e Marca",
+   "local": "Espaço Re-mind - Solarium (Cultive)",
+   "horario": "11h30 às 12h30"
+  },
+  {
+   "name": "Design de sistemas para uma empresa de música",
+   "descricao": "Iuri Freiberger - Designer estratégico / Produtor Musical",
+   "local": "Associação José do Patrocínio",
+   "horario": "11h30 às 12h30"
+  },
+  {
+   "name": "Trust Economy",
+   "descricao": "Karine Uehara - Transformational Designer",
+   "local": "Hotel Real Palace",
+   "horario": "11h30 às 12h30"
+  },
+  {
+   "name": "Mobiliza 360: Inovação Tecnológica para a Gestão Pública",
+   "descricao": "Hélio Lemes - Head do Laboratório de Políticas Públicas para Cidades mais Inteligentes",
+   "local": "Auditório Sebrae (Ginásio Alcidão)",
+   "horario": "11h30 às 12h30"
+  },
+  {
+   "name": "Hackeando a Lei Geral de Proteção de Dados (LGPD)",
+   "descricao": "Luis Prado - Sócio responsável pela área de Direito Digital do escritório Daniel Law",
+   "local": "Espaço Leucotron (Salão Dom João Bergese)",
+   "horario": "11h30 às 12h30"
+  },
+  {
+   "name": "Arquitetura de Escolhas",
+   "descricao": "Lígia Greche Gonçalves: Executiva de Marketing com 22 anos de experiência em multinacionais, no Brasil e Exterior, como: AMBEV, Philip Morris, ABInbev e BRF.",
+   "local": "Espaço Sebrae (Café Caruso)",
+   "horario": "11h30 às 12h30"
+  },
+  {
+   "name": "Rumos possíveis para suas ideias que casam tecnologia & arte",
+   "descricao": "Edson Natale - Gerente de Música do Itaú Cultural",
+   "local": "Academia de Dança Ândrea Falsarella",
+   "horario": "11h30 às 12h30"
+  },
+  {
+   "name": "Organizações femininas são mais humanas?",
+   "descricao": "Patricia Byington - Líder de projeto no Grupo Tellus / Co-fundadora do Pé de Feijão\nCarla Link - Designer de Serviços e Fundadora da Talking City\nIzabella Neves - Especialista em Inovação na B3 (Bolsa de Valores do Brasil) / Parte do Programa 'Change as Mindset' de empoderamento feminino.",
+   "local": "Sala 64 (ETE FMC)",
+   "horario": "11h30 às 12h30"
+  },
+  {
+   "name": "Blockchain e Processos Colaborativos Distribuídos em Rede",
+   "descricao": "Gustavo Badaró - Nó da Rede Prospera / Pesquisador Blockchain Research Institute Brasil",
+   "local": "Sala 65 (ETE FMC)",
+   "horario": "11h30 às 12h30"
+  },
+  {
+   "name": "Truthtelling: por marcas mais humanas, autênticas e verdadeiras",
+   "descricao": "Raul Santahelena - Autor do livro ?Truthtelling: por marcas mais humanas, autênticas e verdadeiras?",
+   "local": "Anfiteatro ETE FMC",
+   "horario": "11h30 às 12h30"
+  },
+  {
+   "name": "A vivência prática do fim da individualidade.",
+   "descricao": "Kaw Yin e Yan Yin - Fundadores e CEOs da Coexiste Consultoria Existencial, há 12 anos estão unidos no propósito de demonstrar que a desconstrução da personalidade e a vivência da Unidade é possível.",
+   "local": "Auditório Sinhá Moreira (ETE FMC)",
+   "horario": "11h30 às 12h30"
+  },
+  {
+   "name": "Os elementos secretos para você alavancar e manter a sua carreira musical",
+   "descricao": "Henrique Roncoletta - CEO da Marã Música Marketing Musical / Vocalista e fundador da banda de rock alternativo NDK\nJulio Salinas - Gestor de carreira musical (A&R, produtor artístico)",
+   "local": "Sala 81 (ETE FMC)",
+   "horario": "11h30 às 12h30"
+  },
+  {
+   "name": "Cultura: a origem da inovação",
+   "descricao": "Gabriel Kallas - Sócio fundador da Toro Investimentos",
+   "local": "Sala 82 (ETE FMC)",
+   "horario": "11h30 às 12h30"
+  },
+  {
+   "name": "Como percebemos o mundo: uma viagem pela neurociência do design",
+   "descricao": "Tamires Corrêa - Neurocientista e Idealizadora da BrainTechnology.co",
+   "local": "Sala 83 (ETE FMC)",
+   "horario": "11h30 às 12h30"
+  },
+  {
+   "name": "Estudos do futuro: como criar cenários sobre o que está por vir?",
+   "descricao": "Thiara Cavadas - Sócia e Head de pesquisa da Envisioning",
+   "local": "Sala 84 (ETE FMC)",
+   "horario": "11h30 às 12h30"
+  },
+  {
+   "name": "Entre Robôs e pessoas: um olhar para o futuro da saúde no Brasil.",
+   "descricao": "Fabio Calzavara - Head de Design & Inovação na Hapvida / Co-fundadore do Namoa",
+   "local": "Facebook DevC Space (ETE FMC)",
+   "horario": "11h30 às 12h30"
+  },
+  {
+   "name": "Inovação aberta e fechada: de propósito ou sem querer?",
+   "descricao": "Gabriela Rodrigues - Especialista em marca e inovação e co-fundadora da Camaleoa: startup de tecnologia humana",
+   "local": "Espaço Dágora (Pracinha da Câmara)",
+   "horario": "Aguardando Informação"
+  },
+  {
+   "name": "A importância do brincar na infância",
+   "descricao": "Juliana Nascimento - Mãe, artista e empreendedora da Ju.Na - arte criada com desenhos infantis guardados\nMariana Costa- Psicologia, hoje realiza pesquisas para empresas, consultorias e pessoas interessadas em mapear novos contextos de mundo que tragam insights para seus negócios e suas vidas. Após a maternidade está estudando para ser Educadora Parental, certificada pela Escola da Parentalidade e Educação Positivas de Portugal)\nCarolina Piza ? Fez mestrado em Neurociências e neuropsicologia da infância e adolescência, onde explorou os processos de desenvolvimento e aprendizagem. Além da prática clínica e de pesquisa, dedicou-se a projetos de consultoria em educação e a desenvolver formações continuadas para professores da rede pública e particular. É co-fundadora do Projeto pela Primeira Infância (PPI) e estuda temas como a espiritualidade, pedagogia Waldorf, comunicação não-violenta e mindfulness.",
+   "local": "Maternidade - Hospital Antônio Moreira da Costa",
+   "horario": "11h30 as 12h30h"
+  },
+  {
+   "name": "Showcase",
+   "descricao": "Guido Del'Duca",
+   "local": "Palco Rockambole",
+   "horario": "12h45 às 13h15"
+  },
+  {
+   "name": "People Analytics na prática",
+   "descricao": "Marcelo Nobrega - RH Mais Influente da América Latina e Top Voice do LinkedIn 2018",
+   "local": "Teatro Inatel",
+   "horario": "13h às 14h"
+  },
+  {
+   "name": "Futur(s) 20/25: o mundo em 5 anos",
+   "descricao": "Iza Dezon - Pesquisadora de tendências de comportamento / Founder da Dezon Consultoria Estratégica, representante oficial da PeclersParis no Brasil.",
+   "local": "Auditório Aureliano Chaves (Inatel)",
+   "horario": "13h às 14h"
+  },
+  {
+   "name": "Hackeando o Design Thinking",
+   "descricao": "Icaro de Abreu - Head de Inovação da IBM para América Latina",
+   "local": "Salas 15 & 17 (INATEL)",
+   "horario": "13h às 14h"
+  },
+  {
+   "name": "Cannabis Medicinal como ferramenta de inovação",
+   "descricao": "Carolina Nocetti - Médica, com certificação ECFMG (Programa de Revalidação de diploma médico nos EUA) e estendeu sua pesquisa à cannabis utilizada para fins medicinais conhecendo os principais centros produtores no Colorado e na Califórnia/ Expertise de 5 anos em P&D na área da cannabis / Membro da IACM - International Association for Cannabis as Medicine / Coordena a InterCan, com a missão de divulgação de conhecimento científico ligado ao potencial terapêutico da cannabis",
+   "local": "Sala 16 (INATEL)",
+   "horario": "13h às 14h"
+  },
+  {
+   "name": "Inovação: entenda seu real significado e mova o mundo",
+   "descricao": "Caio Felipe - Especialista de inovação na Oxigenio Aceleradora",
+   "local": "Espaço M4U (Sala 22 INATEL)",
+   "horario": "13h às 14h"
+  },
+  {
+   "name": "Animando sua aplicação no Android",
+   "descricao": "Lucas Marciano - Líder técnico no Inatel Competence Center",
+   "local": "Espaço Equinix (Sala 20 INATEL)",
+   "horario": "13h às 14h"
+  },
+  {
+   "name": "O design está se tornando cada vez mais político?",
+   "descricao": "Adriana Oppenheim - Head de Business Development na Livework",
+   "local": "Sala 16 (INATEL)",
+   "horario": "13h às 14h"
+  },
+  {
+   "name": "Porto Alegre Inquieta: Inovação Social Exponencial",
+   "descricao": "Cesar Paz - Empreendedor Social no Coletivo Porto Alegre Inquieta",
+   "local": "Sala de Física (INATEL)",
+   "horario": "13h às 14h"
+  },
+  {
+   "name": "Eu hackeei o HackTown",
+   "descricao": "Fernanda Tomassoni - Responsável pela identidade visual do HackTown / Sócia da agência Idea",
+   "local": "Sala de Ideação (INATEL)",
+   "horario": "13h às 14h"
+  },
+  {
+   "name": "Artista como Produto: desafios e estratégias para sua promoção",
+   "descricao": "Natália Noronha - Cantora, compositora e vocalista do Plutão Já Foi Planeta\nMarina Amano - Fundadora da Listo Music\nGabriel Thomaz - Vocalista e guitarrista do Autoramas\nIasmine Amazonas - Diretora de Marketing da ONErpm",
+   "local": "King in the Belly Backyard (Libertas Brew Pub)",
+   "horario": "13h às 14h"
+  },
+  {
+   "name": "Inteligência Artificial ao Alcance de Todos",
+   "descricao": "Jeni Shih - COO de Cloud & Cognitive da IBM América Latina",
+   "local": "Espaço Re-mind - Botanike (Cultive)",
+   "horario": "13h às 14h"
+  },
+  {
+   "name": "A cura pelo coração",
+   "descricao": "Ivo Machado - CEO na iMusics / Founder na mEdite.me",
+   "local": "Espaço Re-mind - Solarium (Cultive)",
+   "horario": "13h às 14h"
+  },
+  {
+   "name": "A Importância do Storytelling com dados no Processo de Business Intelligence",
+   "descricao": "Luis Gustavo Serra - Criador do canal no Youtube Mais Que Planilhas / Fundador da Excelência Soluções Empresariais.",
+   "local": "Associação José do Patrocínio",
+   "horario": "13h às 14h"
+  },
+  {
+   "name": "Cannabis: um desafio de comunicação",
+   "descricao": "Eld Johonny ? Gestor de comunicação em uma empresa de Cannabis Medicinal\nWellington Nogueira - Fundador da org Doutores da Alegria e hacker do sistema de saúde através do trabalho de palhaços e artistas profissionais e em hospitais / Empreendedor Social Ashoka, pesquisa o papel da ludicidade no futuro do trabalho: PLAY2FLOW!",
+   "local": "Hotel Real Palace",
+   "horario": "13h às 14h"
+  },
+  {
+   "name": "Priorizar é preciso: aplicando o Kano Model para desenvolver seu produto na direção certa",
+   "descricao": "Martina Scherrer - Product Owner na InfoPrice",
+   "local": "Espaço Leucotron (Salão Dom João Bergese)",
+   "horario": "13h às 14h"
+  },
+  {
+   "name": "Reinventing the city",
+   "descricao": "Adam Kurdahl - Sócio-fundador / Diretor Criativo da SPOL Architects",
+   "local": "Auditório Sebrae (Ginásio Alcidão)",
+   "horario": "13h às 14h"
+  },
+  {
+   "name": "O Rabisco do Passinho",
+   "descricao": "Rodrigo Vieira - Bailarino / Pesquisador do Passinho",
+   "local": "Academia de Dança Ândrea Falsarella",
+   "horario": "13h às 14h"
+  },
+  {
+   "name": "Design guiando inovações no setor público: o sistema prisional",
+   "descricao": "Thaís Ricaldoni - UX na Sympla / Mentora de design de negócios e inovação na Mooca",
+   "local": "Sala 64 (ETE FMC)",
+   "horario": "13h às 14h"
+  },
+  {
+   "name": "Neuroplasticidade: Como os games e VR podem reconectar circuitos no cérebro após lesões e nos padrões atípicos do neurodesenvolvimento.",
+   "descricao": "Marcela Cavalcanti - Médica especialista em neurologia / Idealizadora do Projeto Asas e Ninhos",
+   "local": "Sala 65 (ETE FMC)",
+   "horario": "13h às 14h"
+  },
+  {
+   "name": "– Problem solving: como alavancar sua carreira resolvendo problemas complexos",
+   "descricao": "Claudemir Oribe - Especialista em metodologia de resolução de problemas complexos (MASP)",
+   "local": "Anfiteatro ETE FMC",
+   "horario": "13h às 14h"
+  },
+  {
+   "name": "5 in 5: as 5 tecnologias que vão mudar nossas vidas em 5 anos",
+   "descricao": "Henrique von Atzingen - Head do THINKLab IBM Research no Brasil, grupo que trabalha no coração das iniciativas de Inovação da IBM com seus clientes",
+   "local": "Auditório Sinhá Moreira (ETE FMC)",
+   "horario": "13h às 14h"
+  },
+  {
+   "name": "Rap: dos guetos à música Pop do mundo",
+   "descricao": "Julio Mossil - Proprietário da S.A.L.A Estúdio, diretor musical e técnico do rapper Rashid\nRômulo Spuri - Produtor cultural / Vídeo maker da Straditerra\nDiego Dais - Mc no Projeto consonância, produtor cultural e arte educador no Espaço das Artes e graffiteiro\nBarral Lima - CEO do Grupo UN Music",
+   "local": "Sala 81 (ETE FMC)",
+   "horario": "13h às 14h"
+  },
+  {
+   "name": "Ideia, microfone, ação! O áudio como ferramenta de transformação.",
+   "descricao": "Alexandre Luppi - Radialista e Cofundador Compasso Coolab",
+   "local": "Sala 82 (ETE FMC)",
+   "horario": "13h às 14h"
+  },
+  {
+   "name": "O que vem depois do humano? Transhumanismo, ciborguismo e robótica",
+   "descricao": "Lidia Zuin - Jornalista e futuróloga / Head do UP Future Sight / Colunista do UOL Tab",
+   "local": "Sala 83 (ETE FMC)",
+   "horario": "13h às 14h"
+  },
+  {
+   "name": "Dados contam uma história: como usar data analytics pra melhorar vidas. Inclusive a sua.",
+   "descricao": "Guilherme Cintra - Head de Tecnologia na Eleva Educação / Sócio na Gera Capital",
+   "local": "Sala 84 (ETE FMC)",
+   "horario": "13h às 14h"
+  },
+  {
+   "name": "Parece que o instagram foi longe demais. Qual o futuro do filtro no Brasil?",
+   "descricao": "Vanessa Pains (Sereia Hipster) - Desenvolvedora de filtros AR para Instagram / Graphic Designer na Som Livre\nPedro Henz - Diretor de Tecnologia na SHIFT/SHIFT\nIgor Abreu - Desenvolvedor Sênior na Gympass / Creative Coder",
+   "local": "Facebook DevC Space (ETE FMC)",
+   "horario": "13h às 14h"
+  },
+  {
+   "name": "Marketing Autêntico – sua divulgação condizente com sua atuação!",
+   "descricao": "Markus Runk - Marketólogo com mais de 20 anos de experiência melhorando e inovando a experiência do cliente, mercados, produtos e serviços, criando departamentos, unidades de negócios e empresas.",
+   "local": "Espaço Dágora (Pracinha da Câmara)",
+   "horario": "13h às 14h"
+  },
+  {
+   "name": "Cidade Criativas: desafios de transformar ações em políticas públicas",
+   "descricao": "Carla Link, Marcelo Educa, Wander Chaves",
+   "local": "Casarão femto",
+   "horario": "13h às 14h"
+  },
+  {
+   "name": "Showcase",
+   "descricao": "Kanduras",
+   "local": "Palco Rockambole",
+   "horario": "13h45 às 14h15"
+  },
+  {
+   "name": "O Som de um Clique",
+   "descricao": "Giuliana Bonequini",
+   "local": "Espaço Marã Música (Johnny's bar)",
+   "horario": "14h às 23h"
+  },
+  {
+   "name": "Mentoria",
+   "descricao": "Music Cosmos: Mentoria em Grupo para Profissionais da Música",
+   "local": "Espaço Marã Música (Johnny's bar)",
+   "horario": "14h às 15:30"
+  },
+  {
+   "name": "38º Ponto de Transmutação",
+   "descricao": "Hui Jin Park - Estrategista natural da Coréia do Sul e inspirada pela cultura e suas expressões, investiga práticas curatoriais na arte, design estéticas comportamentais em busca de insights estratégicos, comportamentos emergentes e design de cenários futuros.",
+   "local": "Teatro Inatel",
+   "horario": "14h30 às 15h30"
+  },
+  {
+   "name": "Founders Talk",
+   "descricao": "Com as ferramentas que a tecnologia democratizou, o mundo hoje é uma grande plataforma para criar projetos que colaborem na construção de um futuro desejável. Venha conhecer as histórias cheias de propósito de criadores de movimentos, startups e projetos impulsionadores de uma nova realidade. A dinâmica é bem parecida com a do TEDx.",
+   "local": "Auditório Aureliano Chaves (Inatel)",
+   "horario": "14h30 às 15h30"
+  },
+  {
+   "name": "O mercado da música, o sucesso e a pergunta que vem antes de tudo: Por que eu entraria nisso?",
+   "descricao": "Koba - Cantor/Compositor, guitarrista, produtor musical da Coexiste Music e ex-integrante e co-fundador da banda RESTART",
+   "local": "Salas 15 & 17 (INATEL)",
+   "horario": "14h30 às 15h30"
+  },
+  {
+   "name": "Toda estratégia é um universo",
+   "descricao": "Marcel Maineri - Concept Leader na Eyxo, tem mais de dez anos de experiência na criação de campanhas de marketing nas áreas de entretenimento, música e lifestyle. Tem no seu currículo campanhas digitais para artistas como Anitta, Iza, Ludmilla, Diogo Nogueira e Mallu Magalhães, além de marcas como Coca-Cola, Claro, 99, Renner, Quiksilver e Guaraná Antártica.",
+   "local": "Sala 12 (INATEL)",
+   "horario": "Aguardando Informação"
+  },
+  {
+   "name": "Customer Experience no mundo real",
+   "descricao": "Fernanda De Divitiis - Cofundadora e Service Designer na Wake Insights.",
+   "local": "Espaço M4U (Sala 22 INATEL)",
+   "horario": "14h30 às 15h30"
+  },
+  {
+   "name": "Procurando Dory: Estratégia para tempos de DDA",
+   "descricao": "Andre Troster - Head of Planning da Wieden+Kennedy São Paulo",
+   "local": "Espaço Equinix (Sala 20 INATEL)",
+   "horario": "14h30 às 15h30"
+  },
+  {
+   "name": "Qual é o café que te acorda?",
+   "descricao": "Sergio Barros - Head de Criação no Café Hotel e No More Bad Coffee\nCaio Tucunduva - Empreendedor em inovação de cafés especiais\nGustavo Giglio - Sócio-do Update or Die / head de conteúdo do UNLOCK CCXP (Comic Con Experience)\nAlex?Ander de Alckmin - Produtor de Café",
+   "local": "Sala 16 (INATEL)",
+   "horario": "14h30 às 15h30"
+  },
+  {
+   "name": "YOU_CODE Decifrando o código pessoal que enriquece o perfil profissional.",
+   "descricao": "Carolina Dostal - Linkedin Advisor",
+   "local": "Sala de Física (INATEL)",
+   "horario": "14h30 às 15h30"
+  },
+  {
+   "name": "Projeto SÍLABA: um manifesto pela criatividade humana em tempos de algoritmos",
+   "descricao": "Marcelo Coelho - Saxofonista, compositor e pesquisador",
+   "local": "Sala de Ideação (INATEL)",
+   "horario": "14h30 às 15h30"
+  },
+  {
+   "name": "Tony Aiex (TMDQA!) entrevista Scalene",
+   "descricao": "Scalene - Banda vencedora do Grammy Latino de Melhor Álbum de Rock em 2015/2016",
+   "local": "King in the Belly Backyard (Libertas Brew Pub)",
+   "horario": "14h30 às 15h30"
+  },
+  {
+   "name": "Experiência de Yoga Intuitiva: quando Asanas, Inspirações e Consciência se encontram",
+   "descricao": "Gabriela Maciel - Healer, Desenvolvedora Humana, facilitadora de Yoga Intuitiva",
+   "local": "Espaço Re-mind - Botanike (Cultive)",
+   "horario": "14h30 às 15h30"
+  },
+  {
+   "name": "Como preparar sua vida financeira para o mundo onde o dinheiro será apenas uma das formas de acesso",
+   "descricao": "Alexandre Garcia - Legal Architect & Legal Scientist / Fundador da Deep Tech Labs\nErnesto Abud - Pai de 5 filhos e dentro do Clã de 7 pessoas e sua responsabilidade, segundo ele, é a de provocar o inimaginável, pois gosta de explorar novas temáticas e assumir a bronca em temas inexplorados.",
+   "local": "Espaço Re-mind - Solarium (Cultive)",
+   "horario": "14h30 às 15h30"
+  },
+  {
+   "name": "Orquestra Moderna: a impensável inclusão social de surdos pela música clássica",
+   "descricao": "Daniel Valeriano - Fundador da Orquestra Moderna",
+   "local": "Associação José do Patrocínio",
+   "horario": "14h30 às 15h30"
+  },
+  {
+   "name": "Marketing Entretenimento: usando diversao, cultura e experiencia para divulgar sua marca",
+   "descricao": "Monica Araújo / Hebert Mota / Flavia Cambraia / Vitor Santana",
+   "local": "Hotel Real Palace",
+   "horario": "14h30 às 15h30"
+  },
+  {
+   "name": "Santa Rita: Como uma cidade de 40 mil habitantes tornou-se referência internacional em tecnologia e economia criativa",
+   "descricao": "Marcos Vilela - Sócio-fundador da Leucotron / Presidente do Conselho Curador do Hospital Antônio Moreira da Costa / Participou da criação do Vale da Eletrônica\nWander Chaves - Prefeito de Santa Rita do Sapucaí / Um dos idealizadores do Movimento Cidade Criativa Cidade Feliz / Professor e Ex-Diretor do Inatel\nDaniele Alkmin - CEO da startup Agrorigem - The Coffee ID e proprietária da empresa Heritage Cafés Especiais\nCarlos Romero - Escritor, autor do livro que narra a história do Vale da Eletrônica / Empresário",
+   "local": "Espaço Leucotron (Salão Dom João Bergese)",
+   "horario": "14h30 às 15h30"
+  },
+  {
+   "name": "Por trás dos palcos: como gerir negócios musicais",
+   "descricao": "Carolina Daves - Diretora Executiva do Grupo UN Music\nLuísa Gontijo - Sócia da Agência Retalho de Comunicação e Produção Cultural\nLuan Nobat - Compositor / Músico / A&R do Selo Under Discos",
+   "local": "Bar do Dimas",
+   "horario": "14h30 às 15h30"
+  },
+  {
+   "name": "A palestra que eu queria ter visto antes de vender minha empresa",
+   "descricao": "Luis Lourenço - Fundador e CEO da Plug CRM, empresa adquirida pela Resultados Digitais",
+   "local": "Auditório Sebrae (Ginásio Alcidão)",
+   "horario": "14h30 às 15h30"
+  },
+  {
+   "name": "Insight-se! O entendimento do cliente é a verdadeira alma do negócio",
+   "descricao": "Luciana Oliveira e Cristiano Schenardi: sócios da Kyra Insights, empresa que há mais de 20 anos ajuda empresas de diferentes portes e em diversas indústrias a encontrar insights valiosos para seus negócios",
+   "local": "Espaço Sebrae (Café Caruso)",
+   "horario": "14h30 às 15h30"
+  },
+  {
+   "name": "Chega de tapar o sol com a peneira: Porque convidei meus filhos para as conversas que ninguém quer ter?",
+   "descricao": "Mayra Abbondanza - Consultora em comportamento e educação alimentar de famílias",
+   "local": "Academia de Dança Ândrea Falsarella",
+   "horario": "14h30 às 15h30"
+  },
+  {
+   "name": "Startups e conexão com grandes empresas: a experiência da Samsung",
+   "descricao": "Paulo Quirino - Coordenador de Startups na Samsung",
+   "local": "Sala 64 (ETE FMC)",
+   "horario": "14h30 às 15h30"
+  },
+  {
+   "name": "Por que aceleradoras no Brasil não dão certo como no Vale do Silício?",
+   "descricao": "Paulo Humaitá - Founder e CEO da aceleradora Bluefields",
+   "local": "Sala 65 (ETE FMC)",
+   "horario": "14h30 às 15h30"
+  },
+  {
+   "name": "Conheça a PerifaCon: a primeira comic con da favela",
+   "descricao": "Luíze Tavares - Criadora e Produtora da PerifaCon, a primeira comic con da favela",
+   "local": "Anfiteatro ETE FMC",
+   "horario": "14h30 às 15h30"
+  },
+  {
+   "name": "Beyond Business Through Business",
+   "descricao": "Marina Pires - Head of Executive Programs do Google",
+   "local": "Auditório Sinhá Moreira (ETE FMC)",
+   "horario": "14h30 às 15h30"
+  },
+  {
+   "name": "Rede de Inovação na Agricultura e Pecuária: resultados do mapeamento dos desafios dos produtores das cadeias do café e do leite em Minas Gerais",
+   "descricao": "Amanda Miranda Pessoa - Coordenadora de Operações do projeto AgroUp (FAEMG)\nGisele Ribeiro Ramos - Coordenadora de Comunidades do projeto AgroUp (FAEMG)",
+   "local": "Sala 81 (ETE FMC)",
+   "horario": "14h30 às 15h30"
+  },
+  {
+   "name": "Como a cannabis pode revolucionar (quase) todas as indústrias no Brasil",
+   "descricao": "Felipe Watanabe - Consultor de Inovação na Mandalah",
+   "local": "Sala 82 (ETE FMC)",
+   "horario": "14h30 às 15h30"
+  },
+  {
+   "name": "Usando Social Listening para prever decisões políticas",
+   "descricao": "Enor Paiano - Sócio e head de vendas da Torabit",
+   "local": "Sala 83 (ETE FMC)",
+   "horario": "14h30 às 15h30"
+  },
+  {
+   "name": "Meu vizinho é um robô: o quanto a biotecnologia já reconfigurou o ser humano",
+   "descricao": "Filipe Bueno Vilela - Pesquisador em Engenharia Biomédica no Inatel",
+   "local": "Sala 84 (ETE FMC)",
+   "horario": "14h30 às 15h30"
+  },
+  {
+   "name": "Girls Go Safe",
+   "descricao": "Paula Papis - Empreendedora social na Comunidade CyberSecurityGirls",
+   "local": "Facebook DevC Space (ETE FMC)",
+   "horario": "14h30 às 15h30"
+  },
+  {
+   "name": "O Resgate do Feminino Sagrado em Tempos Modernos",
+   "descricao": "Letícia da Silva Souza - Sócia da Impar Estamparia LTDA e Integrante do Instituto Espiritual Xamânico Céu Mãos Divinas.",
+   "local": "Espaço Dágora (Pracinha da Câmara)",
+   "horario": "14h30 às 15h30"
+  },
+  {
+   "name": "O papel do Pai",
+   "descricao": "Gustavo Tanaka - Escritor e ativista por um mundo novo, é autor dos livros 11 Dias de Despertar, Depois do Despertar e Colunista da Revista Vida Simples. Além disso, é idealizador de movimentos que promovem a transformação do ser humano como o Brotherhood e o Círculo de Virtudes. 3 vezes palestrante TEDx e em 2016 entrou para a lista de brasileiros mais influentes no LinkedIn no prêmio LinkedIn Top Voices.\nErnesto Abud - Acabou de viver a transformação de mudar de uma vida de nômade solitário para pai de 5 filhos. Hoje se define como Capitão Fantástico e entende que a sua responsabilidade dentro do Clã é a de provocar o inimaginável.\nRodrigo Santo - Pintor, pesquisador de linguagens que desconstroem os padrões de ser, criar e expressar. No rolê de parar de falar e passar a viver o que é: uma vida sincera pede autonomia, autenticidade e coragem. Um pai transformando sua vida e sua forma de paternar.",
+   "local": "Maternidade - Hospital Antônio Moreira da Costa",
+   "horario": "14h30 as 15h30"
+  },
+  {
+   "name": "Showcase",
+   "descricao": "Baleia",
+   "local": "Palco Rockambole",
+   "horario": "14h45 às 15h15"
+  },
+  {
+   "name": "Role Punk",
+   "descricao": "Best Trick, Rangos, Bazar, Drinks, Música e Rodas de Conversa",
+   "local": "Pista de Skate (Beira Rio)",
+   "horario": "15h"
+  },
+  {
+   "name": "Empoderamento e Liderança Feminina: já fez sua parte hoje?",
+   "descricao": "Ana Nery Silveira (COO da Smarttbot)",
+   "local": "Espaço Comunidades (ETE FMC)",
+   "horario": "15h ás 16h"
+  },
+  {
+   "name": "Showcase",
+   "descricao": "Tagua Tagua",
+   "local": "Palco Rockambole",
+   "horario": "15h45 às 16h15"
+  },
+  {
+   "name": "Educação e Inovação: do ensino regular ao corporativo como podem ser os processos de aprendizagem e formação de novos profissionais?",
+   "descricao": "Andrezza Amorelli, Estela Rocha, Marcelo Educa e Camila Piza",
+   "local": "Casarão femto",
+   "horario": "16h às 17h"
+  },
+  {
+   "name": "Showcase",
+   "descricao": "S.E.T.I.",
+   "local": "Espaço Marã Música (Johnny's bar)",
+   "horario": "16h às 17h"
+  },
+  {
+   "name": "Como o seu ?eu criativo? pode aprender com o se ?eu invejoso?",
+   "descricao": "Steve ePonto - Creative Strategist no Facebook",
+   "local": "Teatro Inatel",
+   "horario": "16h às 17h"
+  },
+  {
+   "name": "Negócios de Impacto e Empreendedorismo Social: oportunidade de negócios com proposito",
+   "descricao": "Ricardo Podval - CEO do CIVI-CO, o primeiro Polo de Impacto Cívico Social da América Latina",
+   "local": "Auditório Aureliano Chaves (Inatel)",
+   "horario": "16h às 17h"
+  },
+  {
+   "name": "De volta para o futuro: o novo critério de sucesso das marcas",
+   "descricao": "Caio Del Manto - Diretor geral da agência digital CIRCUS no Brasil",
+   "local": "Salas 15 & 17 (INATEL)",
+   "horario": "16h às 17h"
+  },
+  {
+   "name": "O que sua idade diz sobre você?",
+   "descricao": "Carla Mayumi - Co-autora do livro Volta ao Mundo em 13 Escolas / Co-realizadora da Virada Política e do Jogo da Política / Voluntária do projeto Vote Nelas",
+   "local": "Sala 12 (INATEL)",
+   "horario": "16h às 17h"
+  },
+  {
+   "name": "Comunicação, feminismo e saúde: a demanda das mulheres por informação e autonomia.",
+   "descricao": "Amanda Grecco - Jornalista especializada em saúde da mulher / Co-fundadora do Gentle Lab",
+   "local": "Espaço M4U (Sala 22 INATEL)",
+   "horario": "16h às 17h"
+  },
+  {
+   "name": "Como automatizar sem codar",
+   "descricao": "Sarah Hial - Empreendedora na Neuron, a FLAGCX company",
+   "local": "Espaço Equinix (Sala 20 INATEL)",
+   "horario": "16h às 17h"
+  },
+  {
+   "name": "Design at scale: lições aprendidas ao conectar design em uma empresa global",
+   "descricao": "Érico Fileno - Head de Inovação e Design na Visa",
+   "local": "Sala 16 (INATEL)",
+   "horario": "16h às 17h"
+  },
+  {
+   "name": "Brand AI ou Connected Commerce",
+   "descricao": "Giacomo Groff - Head of Strategy na R/GA",
+   "local": "Sala de Física (INATEL)",
+   "horario": "16h às 17h"
+  },
+  {
+   "name": "Eufrasia, a inspiração da investidora pioneira para uma empresa de impacto econômico-social",
+   "descricao": "Mariana Ribeiro - CEO do Quero ser Eufrasia, projeto de inserção de mulheres no mercado financeiro como investidoras e profissionais",
+   "local": "Sala de Ideação (INATEL)",
+   "horario": "16h às 17h"
+  },
+  {
+   "name": "Desmistificando a distribuição digital",
+   "descricao": "Rodrigo Ratto - Head de Operações da Ditto Music Brasil\nAna Cristina Falcão - Lider do Women in Music Brasil / CEO da Cada Instante\nTiago Agostini - Trade Marketing na Ditto Music Brasil",
+   "local": "King in the Belly Backyard (Libertas Brew Pub)",
+   "horario": "16h às 17h"
+  },
+  {
+   "name": "PaiDeCast Brazil: No passado era em volta da fogueira, hoje é diante do microfone. Um podcast (ao vivo) sobre o poder da conversa entre pais e filhos.",
+   "descricao": "Henrique von Atzingen - Head do THINKLab IBM Research no Brasil, grupo que trabalha no coração das iniciativas de Inovação da IBM com seus clientes,\nBarbara Amaral e Ana Amaral> Filhas do Henrique von Atzingen",
+   "local": "Espaço Re-mind - Botanike (Cultive)",
+   "horario": "16h às 17h"
+  },
+  {
+   "name": "Ciência & Consciência, Tecnologia & Magia, Futurismo & Ancestralidade como fontes de reflexão sobre as nossas ORIGEN(S)",
+   "descricao": "Gabriela Maciel - Healer, Desenvolvedora Humana e Facilitadora Yoga Intuitiva\nLigia Zotini - Pesquisadora e Pensadora de Futuros / Fundadora do Voicers",
+   "local": "Espaço Re-mind - Solarium (Cultive)",
+   "horario": "16h às 17h"
+  },
+  {
+   "name": "Escutatória & Storytelling ao vivo",
+   "descricao": "Thomas Brieu - Especialista em Escutatória",
+   "local": "Associação José do Patrocínio",
+   "horario": "16h às 17h"
+  },
+  {
+   "name": "Voice Hack: Descubra o potencial da sua voz com as técnicas de locutores profissionais",
+   "descricao": "Simone Kliass - Locutora do GNT, da Latam Airlines, do GRU Airport e do canal do cliente da SKY\nJason Bermingham - Colunista de veículos especializados em publicidade e produção de áudio/ Idealizador e curador do Pixel Voice",
+   "local": "Hotel Real Palace",
+   "horario": "16h às 17h"
+  },
+  {
+   "name": "Cybersegurança: Tudo que você queria saber e tem medo de perguntar",
+   "descricao": "Marcelo Lau - Diretor Executivo na Data Security",
+   "local": "Espaço Leucotron (Salão Dom João Bergese)",
+   "horario": "16h às 17h"
+  },
+  {
+   "name": "Vulnerabilidade é Potência: Um Novo Movimento de Aprendizagem",
+   "descricao": "Eduardo Valladares - Designer de aprendizagem / Professor de redação e metodologia de aprendizagem no Descomplica / Autor do livro Como Aprender Melhor",
+   "local": "Bar do Dimas",
+   "horario": "16h às 17h"
+  },
+  {
+   "name": "Criando a cultura de serviços na indústria",
+   "descricao": "Paulo Cesar do Nascimento - Head de Content & Services na Samsung Brasil.",
+   "local": "Auditório Sebrae (Ginásio Alcidão)",
+   "horario": "16h às 17h"
+  },
+  {
+   "name": "Dia a dia da Inovação Corporativa: visão Interna",
+   "descricao": "Carlos Carneiro: CEO da Startadora. Criador do programa e metodologia ACE Start e Co-criador do Colisões.",
+   "local": "Espaço Sebrae (Café Caruso)",
+   "horario": "16h às 17h"
+  },
+  {
+   "name": "A coragem de ser quem somos",
+   "descricao": "Cinthia Costa - Educadora de mentes e corações / Fundadora do Instituto Origo",
+   "local": "Academia de Dança Ândrea Falsarella",
+   "horario": "16h às 17h"
+  },
+  {
+   "name": "Circular é preciso: como tocar nos festivais no Brasil?",
+   "descricao": "Barral Lima - CEO do Grupo UN Music\nLuiza Morandini - Programadora, curadora e produtora do JazzNosFundos\nMaximo Levy - Fundador e diretor dos JazzNosFundos e JazzB, dois dos mais relevantes espaços de música instrumental em São Paulo\nIuri Freiberger - Designer estratégico / Produtor Musical",
+   "local": "Sala 64 (ETE FMC)",
+   "horario": "16h às 17h"
+  },
+  {
+   "name": "Design guiando inovações no setor público: o sistema de transporte público",
+   "descricao": "Bárbara Mendonça - Designer de experiências do usuário na Teknisa",
+   "local": "Sala 65 (ETE FMC)",
+   "horario": "16h às 17h"
+  },
+  {
+   "name": "A Música e seus Aspectos Sociais",
+   "descricao": "Keops e Raony - vocalistas da banda Medulla, aproveitaram o hiato anunciado pela banda e anunciam seu novo projeto Keops & Raony. MPB, Mangue Beat, R&B, Rap, Raggaeton são ritmos do novo trabalho dos gêmeos pernambucanos.\nLuiza Gonçalves - Produtora audiovisual / Sócia do Selo Rockambole / Produtora de campo da banda O Grilo\nIasmine Amazonas - Diretora de Marketing da ONErpm",
+   "local": "Anfiteatro ETE FMC",
+   "horario": "16h às 17h"
+  },
+  {
+   "name": "Turista ou viajante? Repensando a viagem em tempos de crise",
+   "descricao": "Carol Soares - Sócia na consultoria f/uxo / Nômade",
+   "local": "Auditório Sinhá Moreira (ETE FMC)",
+   "horario": "16h às 17h"
+  },
+  {
+   "name": "Direito Digital para humanos e robôs: o que saber para não temer, com enfoque na remoção de conteúdo e proteção de dados",
+   "descricao": "Roger Vieira Feichas - Coordenador da Câmara de Estudos em Direitos Humanos do Estado de Minas Gerais",
+   "local": "Sala 81 (ETE FMC)",
+   "horario": "16h às 17h"
+  },
+  {
+   "name": "Business Sprint: resolvendo problemas complexos de negócios de forma ágil",
+   "descricao": "Ken Fujioka - Sócio-fundador da ADA Strategy",
+   "local": "Sala 82 (ETE FMC)",
+   "horario": "16h às 17h"
+  },
+  {
+   "name": "Ufologia e Espiritualidade",
+   "descricao": "Beto Kloster - Médico Clínico Geral, especializando em Homeopatia / Membro do CBPDV (Centro Brasileiro de Pesquisa de discos voadores) / Produtor de música eletrônica (Progressive Trance) / Pesquisador do Xamanismo e da Ufologia",
+   "local": "Sala 83 (ETE FMC)",
+   "horario": "16h às 17h"
+  },
+  {
+   "name": "Gestão de times exponenciais: cultura da experimentação para a construção do futuro agora",
+   "descricao": "Ramon Azevedo - Diretor da Fundep e CEO da Fundepar",
+   "local": "Sala 84 (ETE FMC)",
+   "horario": "16h às 17h"
+  },
+  {
+   "name": "A importância de aliados no crescimento de carreira",
+   "descricao": "Caroline Dalmolin - Head dos programas de startups e desenvolvedores do Facebook para a América Latina",
+   "local": "Facebook DevC Space (ETE FMC)",
+   "horario": "16h às 17h"
+  },
+  {
+   "name": "Empreender X CLT: precisa escolher?",
+   "descricao": "Monique Wasserman - Especialista de RH na BRF e Empreendedora Digital (Encontre Saber e Meu Amigo Aplicativo)",
+   "local": "Espaço Dágora (Pracinha da Câmara)",
+   "horario": "16h às 17h"
+  },
+  {
+   "name": "Parentalidade positiva",
+   "descricao": "Mariana Costa- Psicologia, hoje realiza pesquisas para empresas, consultorias e pessoas interessadas em mapear novos contextos de mundo que tragam insights para seus negócios e suas vidas. Após a maternidade está estudando para ser Educadora Parental, certificada pela Escola da Parentalidade e Educação Positivas de Portugal)\nMayra Abbodanza - Consultora de comportamento e alimentar, mãe de 5 filhos e autora do livro 'Dêxa eeuuu!!!' que incentiva o protagonismo infantil na cozinha através do vínculo e do lúdico, já tendo atendido mais de 500 famílias.",
+   "local": "Maternidade - Hospital Antônio Moreira da Costa",
+   "horario": "16h as 17h"
+  },
+  {
+   "name": "Fator humano da inovação: como o foco em pessoas e cultura tem definido o sucesso ou fracasso das startups",
+   "descricao": "Luiz Drouet (Managing Partner Share RH)",
+   "local": "Espaço Comunidades (ETE FMC)",
+   "horario": "16h ás 17h"
+  },
+  {
+   "name": "Meetup Smart Rights",
+   "descricao": "Conheça uma nova tecnologia de gestão de royalties, e descubra como a ciência de dados, o machine learning e a blockchain vão transformar completamente sua experiência com arrecadação, distribuição e inteligência de royalties.",
+   "local": "SIS Coworking",
+   "horario": "16h às 18h"
+  },
+  {
+   "name": "Showcase",
+   "descricao": "Gavi",
+   "local": "Palco Rockambole",
+   "horario": "16h45 às 17h15"
+  },
+  {
+   "name": "Showcase",
+   "descricao": "Yannick Hara e Floco",
+   "local": "Espaço Marã Música (Johnny's bar)",
+   "horario": "17h às 18h"
+  },
+  {
+   "name": "She?s Tech on the Hack",
+   "descricao": "A jornada pela busca de um trabalho com significado pode ser surpreendente, desafiadora e gratificante. O que vai fazer seus olhos brilharem, seu trabalho no futuro, pode ser criado por você.",
+   "local": "Dija Gastronimia",
+   "horario": "17h às 19h"
+  },
+  {
+   "name": "Trabalhar por propósito: quem disse que é fazer o que se gosta?",
+   "descricao": "Ciranda de Morais - Fundadora do She?sTech",
+   "local": "Dija Gastronomia",
+   "horario": "17h às 18h"
+  },
+  {
+   "name": "Revoada das Garças",
+   "descricao": "Todos os dias, no fim da tarde, centenas de garças voam em direção a algumas árvores da Av. Beira Rio, em Santa Rita do Sapucaí, em um incrível espetáculo da natureza.",
+   "local": "Av. Beira Rio",
+   "horario": "17h30"
+  },
+  {
+   "name": "Vida Pós Agência",
+   "descricao": "André Foresti - Founder da Troublemakers\nMarina Pires - Head of Executive Programs do Google\nCleber Paradela - Head de Brand Experience da 99",
+   "local": "Teatro Inatel",
+   "horario": "17h30 às 18h30"
+  },
+  {
+   "name": "Social bots: inimigos reais do ativismo de marcas",
+   "descricao": "Marcio Borges - Vice-Presidente Executivo da WMcCann\nMarie Santini - Pesquisadora do Instituto Brasileiro de Informação e Tecnologia / Coordenadora do laboratório de pesquisa NetLab da UFRJ",
+   "local": "Auditório Aureliano Chaves (Inatel)",
+   "horario": "17h30 às 18h30"
+  },
+  {
+   "name": "The Ugly Truth: o real mundo da alta performance",
+   "descricao": "Luciano Freitas - Co-founder & CMO do social commerce Facily / Fundador da Mind Hack Lab",
+   "local": "Salas 15 & 17 (INATEL)",
+   "horario": "17h30 às 18h30"
+  },
+  {
+   "name": "Cannabis 2,5: Entre o segundo e terceiro setor",
+   "descricao": "Marcus Maida - Advogado e consultor de negócios / Sócio da HM Business Management. Mentor e avaliador de startups / Diretor do departamento de micro, pequena e média indústria e acelera, FIESP / Colaba com o ecossistema de cannabis medicinal através de apoio jurídico estratégico e compliance\nUbiratan Angelo - Coordenador de Segurança Humana do Vivario no Brasil / Diretor da Empresa Ígnea Consultoria em Segurança / Mestrando em Direito na Universidade Candido Mendes / Ex-Secretário de Ordem Pública do Município de Armação do Búzios / Ex-Comandante Geral da Policia Militar do Rio de Janeiro",
+   "local": "Sala 12 (INATEL)",
+   "horario": "17h30 às 18h30"
+  },
+  {
+   "name": "P.O.taqueopareo, virei Product Manager, e agora?",
+   "descricao": "Thiago Martins - Product Manager na M4U",
+   "local": "Espaço M4U (Sala 22 INATEL)",
+   "horario": "17h30 às 18h30"
+  },
+  {
+   "name": "Realidade Aumentada descomplicada e democratizada",
+   "descricao": "Pablo Funchal - Co-fundador e Líder de Vendas e Parcerias na xGB",
+   "local": "Espaço Equinix (Sala 20 INATEL)",
+   "horario": "17h30 às 18h30"
+  },
+  {
+   "name": "Mulheres do Café: Desafios, realizações e nossas experiências",
+   "descricao": "Helga Carvalho de Andrade - Gestora Executiva da IWCA (Aliança Internacional das Mulheres do Café)\nInês da Vinci - Proprietária da Fazenda Santa Quitéria e Vice-presidente da Amecafe\nRegina Teixeira - Diretora de Qualidade da Illy Café do Brasil\nPatrícia Carvalho - Gerente de cafés especiais no Grupo 3corações",
+   "local": "Sala 16 (INATEL)",
+   "horario": "17h30 às 18h30"
+  },
+  {
+   "name": "Construindo lugares legais e com alta performance: Liderança, Cultura e Redes Orgânicas",
+   "descricao": "Luis Fernando Saraiva - Diretor nacional de Pesquisa e Desenvolvimento da Hewlett Packard Enterprise / Cofounder e investidor da startup Sqed",
+   "local": "Sala de Física (INATEL)",
+   "horario": "17h30 às 18h30"
+  },
+  {
+   "name": "Inovando os Processos de Aprendizagem – para desenvolver as competências que o novo mundo do trabalho exige, é preciso mudar também a maneira como aprendemos",
+   "descricao": "Marcelo Nobrega - RH Mais Influente da América Latina e Top Voice do LinkedIn 2018\nJederson Beck - COO da Hyper XP\nDaniel Scott - Co-fundador HyperXP",
+   "local": "Sala de Ideação (INATEL)",
+   "horario": "17h30 às 18h30"
+  },
+  {
+   "name": "Do hobby ao negócio: 10 anos de Tenho Mais Discos Que Amigos!",
+   "descricao": "Tony Aiex - Fundador e editor-chefe do portal de notícias Tenho Mais Discos Que Amigos!",
+   "local": "King in the Belly Backyard (Libertas Brew Pub)",
+   "horario": "17h30 às 18h30"
+  },
+  {
+   "name": "É filho, ?agora tá hora de você tirar um Diploma",
+   "descricao": "Gian Carlo Bellotti - Diretor do programa Conversa com Bial na TV GLOBO",
+   "local": "Espaço Re-mind - Botanike (Cultive)",
+   "horario": "17h30 às 18h30"
+  },
+  {
+   "name": "Pit-stop Polinizador do Hacktown: vamos conversar o que aprendemos nessa edição do festival?",
+   "descricao": "Camila Piza - Sócia-fundadora da TeePee",
+   "local": "Espaço Re-mind - Solarium (Cultive)",
+   "horario": "17h30 às 18h30"
+  },
+  {
+   "name": "Cidade Criativa Cidade Feliz: a nova política",
+   "descricao": "Wander Chaves - Prefeito de Santa Rita do Sapucaí / Um dos idealizadores do Movimento Cidade Criativa Cidade Feliz / Professor e Ex-Diretor do Inatel",
+   "local": "Associação José do Patrocínio",
+   "horario": "17h30 às 18h30"
+  },
+  {
+   "name": "#somostodosconectados: a transformação do mundo através das conexões.",
+   "descricao": "Diego Julidori - Ambassador da Singularity University Rio Chapter / Head de Produtos da Equinix",
+   "local": "Hotel Real Palace",
+   "horario": "17h30 às 18h30"
+  },
+  {
+   "name": "As maiores Verdades sobre Inovação: ideias para Pessoas e Empresas",
+   "descricao": "Luiz Serafim - Líder de Inovação na 3M do Brasil",
+   "local": "Espaço Leucotron (Salão Dom João Bergese)",
+   "horario": "17h30 às 18h30"
+  },
+  {
+   "name": "Empreendedorismo Canábico",
+   "descricao": "João Paulo Costa - Co-fundador e CEO da Escola do Agora e do Who is Happy, uma rede social para consumidores de cannabis",
+   "local": "Bar do Dimas",
+   "horario": "17h30 às 18h30"
+  },
+  {
+   "name": "O futuro do propósito: a Inovação Necessária no século XXI.",
+   "descricao": "Ticiana Calipe - Autora do livro PROPÓSITO S.A",
+   "local": "Auditório Sebrae (Ginásio Alcidão)",
+   "horario": "17h30 às 18h30"
+  },
+  {
+   "name": "A prática da Inovação nas Empresas",
+   "descricao": "João Alfredo Rodrigues Paula: Mentor e consultor de startups há 12 anos no Sul de Minas. Investidor Anjo e co-fundador do Núcleo do Sul de Minas. Sócio da CoStart.\nDani Xavier - Secretária de Ciência e Tecnologia",
+   "local": "Espaço Sebrae (Café Caruso)",
+   "horario": "17h30 às 18h30"
+  },
+  {
+   "name": "O CEO que virou roqueiro: como empreender em um negócio apaixonante após a vida corporativa",
+   "descricao": "Paulo Portela - Diretor Geral na School of Rock",
+   "local": "Academia de Dança Ândrea Falsarella",
+   "horario": "17h30 às 18h30"
+  },
+  {
+   "name": "Mais importante do que a roupa é a vida que se vive dentro da roupa",
+   "descricao": "Heloisa Ascar - Especialista em Moda e Comportamento",
+   "local": "Sala 64 (ETE FMC)",
+   "horario": "17h30 às 18h30"
+  },
+  {
+   "name": "Cuidando da sua Persona Virtual",
+   "descricao": "Ruth Sartoratto - Integrante da comunidade CyberSecurityGirls",
+   "local": "Sala 65 (ETE FMC)",
+   "horario": "17h30 às 18h30"
+  },
+  {
+   "name": "Inteligência Artificial e Diversidade e Inclusão estamos preparados?",
+   "descricao": "Eduardo Endo - Head de Produtos Digitais Cognitivos na Mutant\nVinicius Soares - Fundador da Mais a.i. e do AiNews Network",
+   "local": "Anfiteatro ETE FMC",
+   "horario": "17h30 às 18h30"
+  },
+  {
+   "name": "Ninguém está Preparado para o Futuro: se o Futuro Muda, a Palestra Muda",
+   "descricao": "Dado Schneider - Pesquisador do Comportamento da Geração Z",
+   "local": "Auditório Sinhá Moreira (ETE FMC)",
+   "horario": "17h30 às 18h30"
+  },
+  {
+   "name": "Você sabe o que significa viver em um mundo VUCA?",
+   "descricao": "Gisele Ramos - Idealizadora e voluntária no Coletivo Rethinkers / CEO na GA2B Consultoria e Serviços",
+   "local": "Sala 81 (ETE FMC)",
+   "horario": "17h30 às 18h30"
+  },
+  {
+   "name": "A privacidade foi hackeada, mas quem se importa?",
+   "descricao": "Bernrdo Ruas - Gerente de Marketing em Tech Companies\nLuis Prado - Sócio responsável pela área de Direito Digital do escritório Daniel Law\nMaurilo Andreas - Founder da Square Egg / Criou a metodologia Autores do Futuro, que transforma crianças em autores coletivos de livros",
+   "local": "Sala 82 (ETE FMC)",
+   "horario": "17h30 às 18h30"
+  },
+  {
+   "name": "Construindo Robôs automatizados para extração de informações",
+   "descricao": "Erick Wendel - Lead Software Architect",
+   "local": "Sala 83 (ETE FMC)",
+   "horario": "17h30 às 18h30"
+  },
+  {
+   "name": "Qual é o futuro da educação? Nossos professores serão robôs?",
+   "descricao": "Marcio Boruchowski - CEO na Profes, Hackademia e Prep para Todos",
+   "local": "Sala 84 (ETE FMC)",
+   "horario": "17h30 às 18h30"
+  },
+  {
+   "name": "Como Vai Seu Mundo?",
+   "descricao": "Dexter - Referência no hip hop nacional desde os anos 90, quando fundou o grupo 509, é sucesso nas rádios de todo o Brasil com as músicas 'Saudades Mil' e 'Oitavo Anjo'.",
+   "local": "Espaço Dágora (Pracinha da Câmara)",
+   "horario": "17h30 às 18h30"
+  },
+  {
+   "name": "O case de Santa Rita do Sapucaí – como a saúde pode ir por caminhos incríveis tendo como parceira o voluntariado.",
+   "descricao": "Cláudia Vilela - Psicanalista, especialista em Psicoterapia Psicanalítica pela USP Instituto de Psicologia; em Psicoterapia Breve Operacionalizado pela UNIP; em Drogas, Dependências e Autonomia pelo Instituto Sedes Sapientiae; em Vincularidade de Família e Casal pela Sociedade Brasileira de Psicanálise de São Paulo; e hoje Voluntária no Hospital Antônio Moreira da Costa.\nMarcos Vilela - Sócio-fundador da Leucotron / Presidente do Conselho Curador do Hospital Antônio Moreira da Costa / Participou da criação do Vale da Eletrônica",
+   "local": "Maternidade - Hospital Antônio Moreira da Costa",
+   "horario": "17h30hs as 18h"
+  },
+  {
+   "name": "Sua turnê pela América do Sul: conheça as possibilidades",
+   "descricao": "Alejandro Loustalet - Produtor Argentino com atuação na cena independente nos países da América do Sul",
+   "local": "Casa Erva Doce",
+   "horario": "17h45 às 18h45"
+  },
+  {
+   "name": "Showcase",
+   "descricao": "Plutão Já Foi Planeta",
+   "local": "Palco Rockambole",
+   "horario": "17h45 às 18h45"
+  },
+  {
+   "name": "Casa TIM 5G",
+   "descricao": "Atrações musicais na varanda da casa",
+   "local": "Cas@ Viva (INATEL)",
+   "horario": "18h às 22h"
+  },
+  {
+   "name": "Download Party",
+   "descricao": "Venha descarregar um pouco de energia positiva na sua última noite de Hacktown.",
+   "local": "Casa dos Treze (Sitio Vintem, condominio de chacaras Vintem)",
+   "horario": "18h"
+  },
+  {
+   "name": "Showcase",
+   "descricao": "Patrícia Lia",
+   "local": "Espaço Marã Música (Johnny's bar)",
+   "horario": "18h às 19h"
+  },
+  {
+   "name": "Showcase",
+   "descricao": "Persiano",
+   "local": "Casarão femto",
+   "horario": "18h30 às 19h10"
+  },
+  {
+   "name": "Showcase",
+   "descricao": "Hey Pappa",
+   "local": "King in the Belly Backyard (Libertas Brew Pub)",
+   "horario": "18h45 às 19h30"
+  },
+  {
+   "name": "Happy Hour Facebook DevC: Momento de networking entre developers, empresas e startups",
+   "descricao": "Inscrição dos devs -> https://pt.surveymonkey.com/r/6TCNXWG\nInscrição dos empresas e startups ->https://pt.surveymonkey.com/r/W275BYN",
+   "local": "Área de Lazer (INATEL)",
+   "horario": "19h"
+  },
+  {
+   "name": "Showcase",
+   "descricao": "Leso",
+   "local": "Espaço Marã Música (Johnny's bar)",
+   "horario": "19h às 20h"
+  },
+  {
+   "name": "Showcase",
+   "descricao": "O Grilo",
+   "local": "Palco Rockambole",
+   "horario": "19h15 às 20h"
+  },
+  {
+   "name": "Pitch Sessions",
+   "descricao": "Startups que desejam se apresentar para a comunidade do Hacktown, que engloba desde o público mais early adopter do Brasil até grandes empresas, fundos de investimento, aceleradoras, incubadoras e todo o ecossistema de empreendedorismo e inovação. As apresentações acontecem a noite e tem foco na conexão. As melhores startups serão premiadas ao final de cada sessão.",
+   "local": "Auditório Aureliano Chaves (Inatel)",
+   "horario": "19h30 às 21h"
+  },
+  {
+   "name": "Teatro",
+   "descricao": "Luzes de Luzia",
+   "local": "Auditório Sinhá Moreira (ETE FMC)",
+   "horario": "19h30"
+  },
+  {
+   "name": "Showcase",
+   "descricao": "Marcelo Coelho e MC Lav.in",
+   "local": "Casarão femto",
+   "horario": "19h30 às 20h10"
+  },
+  {
+   "name": "Showcase",
+   "descricao": "The Outs feat. Murilo Sá",
+   "local": "King in the Belly Backyard (Libertas Brew Pub)",
+   "horario": "19h50 às 20h35"
+  },
+  {
+   "name": "Sofar Sounds",
+   "descricao": "3 dias de shows secretos em um projeto musical presente em centenas de cidades do mundo todo. Ingressos vendidos antecipadamente.",
+   "local": "Local secreto",
+   "horario": "20h às 00h"
+  },
+  {
+   "name": "Showcase",
+   "descricao": "Nill",
+   "local": "Espaço Marã Música (Johnny's bar)",
+   "horario": "20h às 21h"
+  },
+  {
+   "name": "Showcase",
+   "descricao": "Nobat",
+   "local": "Casarão femto",
+   "horario": "20h30 às 21h20"
+  },
+  {
+   "name": "Showcase",
+   "descricao": "Scalene",
+   "local": "Palco Rockambole",
+   "horario": "20h45 às 22h15"
+  },
+  {
+   "name": "Showcase",
+   "descricao": "Combover",
+   "local": "King in the Belly Backyard (Libertas Brew Pub)",
+   "horario": "21h às 21h45"
+  },
+  {
+   "name": "Showcase",
+   "descricao": "Resilienz",
+   "local": "Espaço Marã Música (Johnny's bar)",
+   "horario": "21h às 22h"
+  },
+  {
+   "name": "Meetup Comunidades Empreendedoras",
+   "descricao": "Aguardando Informação",
+   "local": "Restaurante Choppirado",
+   "horario": "21h30"
+  },
+  {
+   "name": "Showcase",
+   "descricao": "Maria Beraldo",
+   "local": "Casarão femto",
+   "horario": "21h40 às 22h40"
+  },
+  {
+   "name": "Showcase",
+   "descricao": "Kilotones",
+   "local": "Espaço Marã Música (Johnny's bar)",
+   "horario": "22h às 23h"
+  },
+  {
+   "name": "Showcase",
+   "descricao": "King in The Belly",
+   "local": "King in the Belly Backyard (Libertas Brew Pub)",
+   "horario": "22h15 às 23h15"
+  },
+  {
+   "name": "Showcase",
+   "descricao": "A Outra Banda da Lua",
+   "local": "Casarão femto",
+   "horario": "23h às 00h"
+  },
+  {
+   "name": "Showcase",
+   "descricao": "SoundFood Gang",
+   "local": "Espaço Marã Música (Johnny's bar)",
+   "horario": "23h às 00h"
+  },
+  {
+   "name": "Showcase",
+   "descricao": "Autoramas",
+   "local": "King in the Belly Backyard (Libertas Brew Pub)",
+   "horario": "23h45 às 01h"
+  },
+  {
+   "name": "Showcase",
+   "descricao": "DJ Bucks",
+   "local": "Espaço Marã Música (Johnny's bar)",
+   "horario": "00h"
+  }
+ ]
+}

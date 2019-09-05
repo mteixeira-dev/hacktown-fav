@@ -1,24 +1,54 @@
-<template>
-  <div id="app">
-    <img alt="Vue logo" src="./assets/logo.png">
-    <HelloWorld msg="Welcome to Your Vue.js App"/>
-  </div>
+<template id="main">
+  <v-ons-page>
+    <v-ons-toolbar>
+      <div class="center">{{ title }}</div>
+      
+    </v-ons-toolbar>
+    <v-ons-tabbar position="bottom" swipeable 
+      :tabs="tabs"
+      :visible="true"
+      :index.sync="activeIndex"
+    >
+    </v-ons-tabbar>
+ 
+  </v-ons-page>
 </template>
-
 <script>
-import HelloWorld from './components/HelloWorld.vue'
+import Calendario from './components/Calendario.vue'
+import Favoritos from './components/Favoritos.vue'
 
 export default {
-  name: 'app',
-  components: {
-    HelloWorld
+  key: 'App',
+  name: 'App',
+  created() { 
+
+  },
+  data: function() { 
+    return { 
+      title: 'Hacktown',
+      activeIndex: 0,
+      tabs: [
+        {
+          icon: 'md-calendar',
+          label: 'Calendario',
+          page: Calendario,
+          key: "calendarioPage"
+        },
+        {
+          icon: 'md-favorite',
+          label: 'Favoritos',
+          page: Favoritos,
+          key: "favoritosPage"
+        },
+      ]
+     }
   }
 }
 </script>
 
 <style>
 #app {
-  font-family: 'Avenir', Helvetica, Arial, sans-serif;
+ 
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
